@@ -1,0 +1,109 @@
+hill	69
+stream mouth(s)	8
+vineyard	6
+amphitheater	13
+plain(s)	1
+mountains	10
+populated place	2835
+windmill	1
+stadium	1
+seat of a first-order administrative division	347
+peak	39
+monument	10
+palace	15
+hospital	1
+racetrack	1
+second-order administrative division	108
+shoal(s)	8
+coast	1
+seat of a second-order administrative division	531
+stream	143
+capital of a political entity	151
+house(s)	12
+metro station	3
+wall	1
+peninsula	4
+islet	5
+seat of a third-order administrative division	1052
+convent	1
+waterfall(s)	1
+garden(s)	1
+museum	34
+cape	6
+island	140
+historical first-order administrative division	9
+spur(s)	2
+ridge(s)	6
+historical political entity	1
+beach	1
+building(s)	1
+abandoned farm	1
+rock	21
+locality	108
+point	6
+historical second-order administrative division	7
+mill(s)	3
+lake	23
+independent political entity	331
+hotel	729
+seat of a fourth-order administrative division	15
+castle	2
+archaeological/prehistoric site	65
+field(s)	4
+administrative division	39
+area	70
+historical region	15
+square	7
+hills	1
+gate	5
+school	1
+railroad station	49
+market	1
+airfield	2
+railroad stop	1
+canalized stream	1
+fourth-order administrative division	40
+airport	29
+pass	1
+historical administrative division	1
+marsh(es)	2
+farm	92
+common	1
+valley	7
+historical site	8
+intermittent stream	1
+amusement park	1
+populated locality	66
+forest(s)	3
+bus stop	1
+ancient wall	2
+historical fourth-order administrative division	2
+bay	1
+street	3
+region	123
+meteorological station	7
+third-order administrative division	167
+reef(s)	6
+ruin(s)	5
+spring(s)	1
+political entity	5
+administrative facility	1
+arch	9
+ravine(s)	1
+church	15
+restaurant	3
+volcano	27
+abandoned populated place	7
+first-order administrative division	239
+slope(s)	1
+headland	1
+section of populated place	56
+port	2
+mountain	57
+park	40
+cliff(s)	2
+islands	2
+canal	11
+triangulation station	1
+fifth-order administrative division	3
+historical third-order administrative division	13

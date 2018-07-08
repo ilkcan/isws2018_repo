@@ -1,0 +1,637 @@
+Byron	10292953	Italy	hotel
+Sassetta	3167091	Italy	seat of a third-order administrative division
+Savoy	2975518	France	region
+Hungary	719819	Hungary	independent political entity
+Romans	2983011	France	populated place
+Banchi	3214073	Italy	area
+Capua	3180601	Italy	seat of a third-order administrative division
+Donato	6543317	Italy	third-order administrative division
+Pistoria	3170621	Italy	seat of a second-order administrative division
+France	3017382	France	independent political entity
+Heywood	6691235	United Kingdom	section of populated place
+Pantano	2523892	Italy	populated place
+Orto	2989181	France	populated place
+Moses	2737358	Portugal	populated place
+Galileo	6472677	Italy	hotel
+Death	2957643	Germany	populated place
+Palace	3302598	Ireland	locality
+Serio	3164258	Italy	seat of a third-order administrative division
+Bk	2960807	Luxembourg	seat of a third-order administrative division
+Castel	6417229	Guernsey	first-order administrative division
+Via Larga	3179852	Italy	populated place
+Cagliari	2525473	Italy	seat of a first-order administrative division
+Almeria	2521886	Spain	seat of a second-order administrative division
+Greve	2621215	Denmark	seat of a second-order administrative division
+Read	11592620	United Kingdom	populated place
+Ariadne	10235325	Greece	hotel
+Augustine	2802935	Belgium	farm
+Vittoria	2522713	Italy	seat of a third-order administrative division
+Ho	2706098	Sweden	populated place
+Vallombrosa	8976614	Italy	populated place
+Nice	2990440	France	seat of a second-order administrative division
+Spinetta	3166243	Italy	populated place
+Paestum	3171709	Italy	populated place
+Rouen	2982652	France	seat of a first-order administrative division
+Poggi	2986578	France	populated place
+Visconti	9955273	Italy	hotel
+Palazzo Provinciale	11127007	Italy	palace
+Austria	2782113	Austria	independent political entity
+Messina	2524170	Italy	seat of a second-order administrative division
+East	3337405	Iceland	first-order administrative division
+Latin	3196743	Croatia	populated place
+Petroio	3171089	Italy	populated place
+Garden	3156095	Norway	populated place
+Museo	8063117	Spain	museum
+Temple	2636124	United Kingdom	populated place
+Rossetti	8972500	Italy	populated place
+Canossa	6536351	Italy	third-order administrative division
+Bibbiena	6538584	Italy	third-order administrative division
+Bruges	2800931	Belgium	populated place
+Tabitha	10299724	Germany	hotel
+Switzerland	2658434	Switzerland	independent political entity
+Empoli	3177400	Italy	seat of a third-order administrative division
+Bellini	3033617	France	populated place
+Bacchus	3035497	France	farm
+St. Thomas	7299732	United Kingdom	third-order administrative division
+Borne	2758598	Netherlands	seat of a second-order administrative division
+Amalfi	3183130	Italy	seat of a third-order administrative division
+Volterra	6299613	Italy	meteorological station
+Pitti	6697950	Italy	palace
+Ponte	3170315	Italy	seat of a third-order administrative division
+Moretto	8963418	Italy	populated place
+Signore	8958179	Italy	populated place
+Grimaldi	2524566	Italy	seat of a third-order administrative division
+Pratovecchio	3169895	Italy	seat of a third-order administrative division
+Lerici	3174856	Italy	seat of a third-order administrative division
+Via	3131894	Norway	populated place
+Settignano	10226947	Italy	section of populated place
+Little	3315839	Ireland	stream
+Jesus	2516322	Spain	populated place
+Rimini	3169361	Italy	seat of a second-order administrative division
+Lucca	3174530	Italy	seat of a second-order administrative division
+Tuscany	3165361	Italy	first-order administrative division
+Palude	8962020	Italy	populated place
+Carrara	3180423	Italy	seat of a third-order administrative division
+Ruta	8987853	Slovenia	populated place
+St. Stephen	7295837	United Kingdom	fourth-order administrative division
+Pietà	8299740	Malta	first-order administrative division
+Twenty	2635311	United Kingdom	populated place
+Piola	6947082	Italy	field(s)
+Paradise	3042307	Guernsey	populated place
+Samothrace	734358	Greece	island
+St. Catherine	7298319	United Kingdom	third-order administrative division
+Stia	3166150	Italy	seat of a third-order administrative division
+Silk	455638	Latvia	populated place
+Cappella	3219038	Italy	populated place
+Carmine	3180489	Italy	populated place
+Settimo	3166576	Italy	seat of a third-order administrative division
+Palle	3193692	Bosnia and Herzegovina	seat of a third-order administrative division
+Aretino	9173469	Italy	hotel
+Hellas	390903	Greece	independent political entity
+Brandenburg	2945358	Germany	populated place
+Bari	3182351	Italy	seat of a first-order administrative division
+Villa	3105765	Spain	populated place
+Ancona	3183089	Italy	seat of a first-order administrative division
+Nero	8962256	Italy	populated place
+Palla	589678	Estonia	populated place
+Milanese	2524156	Italy	populated place
+Uffizi	6295660	Italy	museum
+Ariel	6478216	Spain	hotel
+Nievole	8951171	Italy	populated place
+Fiesole	3177019	Italy	seat of a third-order administrative division
+Bruno	3181479	Italy	seat of a third-order administrative division
+Pesa	255352	Greece	populated place
+Pisano	6535449	Italy	seat of a third-order administrative division
+Andrea	363235	Albania	populated place
+Pistoja	3170621	Italy	seat of a second-order administrative division
+Pola	3192224	Croatia	seat of a second-order administrative division
+Gallura	3176352	Italy	area
+Oria	3114957	Spain	populated place
+Constance	8012759	Portugal	third-order administrative division
+Torrino	11396106	Italy	fifth-order administrative division
+Tronci	8965862	Italy	populated place
+Neptune	11127282	Italy	museum
+Heaven	9281322	Greece	hotel
+Girone	8957052	Italy	populated place
+Shelley	2638065	United Kingdom	populated place
+Rocca	3169180	Italy	populated place
+Badia	3182585	Italy	seat of a third-order administrative division
+Danube	791630	Romania	stream
+Leonardo	3110479	Spain	seat of a third-order administrative division
+Such	486886	Russia	stream
+Fiore	8975155	Italy	populated place
+Venice	3164603	Italy	seat of a first-order administrative division
+Santo	2976118	France	populated place
+Capitol	10169913	Bulgaria	hotel
+Fucecchio	3176504	Italy	seat of a third-order administrative division
+Rome	3169070	Italy	capital of a political entity
+Candida	3180865	Italy	seat of a third-order administrative division
+Lord	3146940	Norway	stream
+Ventimiglia	3164582	Italy	seat of a third-order administrative division
+La	3148595	Norway	populated place
+Galway	2964180	Ireland	seat of a first-order administrative division
+India	829969	Moldova	populated place
+Lorenzo	9033017	Italy	populated place
+San Cassiano	3168497	Italy	seat of a third-order administrative division
+Family	10233735	France	hotel
+Christian	3319459	Austria	farm
+Romagna	3169068	Italy	region
+Cavalcaselle	8063841	Italy	populated place
+Forli	3176746	Italy	seat of a second-order administrative division
+Arezzo	3182884	Italy	seat of a second-order administrative division
+Love	590500	Estonia	populated place
+Desiderio	7279563	Italy	hotel
+Avignon	3035681	France	seat of a second-order administrative division
+Giorgione	8973193	Italy	populated place
+Alessi	10245123	Italy	hotel
+Piazza Annunziata	10859054	Italy	square
+Et	6438222	France	fourth-order administrative division
+Palazzo Vecchio	6697948	Italy	palace
+Franceschini	8971319	Italy	populated place
+Giuliano	2524597	Italy	populated place
+St. Louis	2978742	France	populated place
+Pavia	3171366	Italy	seat of a second-order administrative division
+Cross	3297339	Ireland	locality
+Armenia	264597	Greece	ridge(s)
+Pinturicchio	9611604	Italy	hotel
+Bosco	3181691	Italy	populated place
+Louvre	2997319	France	museum
+Gentile	8955464	Italy	populated place
+Pray	3169892	Italy	seat of a third-order administrative division
+St. Laurence	11395755	United Kingdom	church
+Abati	3186232	Albania	populated place
+Was	6953827	United Kingdom	railroad station
+Edinburgh	2650225	United Kingdom	seat of a first-order administrative division
+Fiorentini	8964332	Italy	populated place
+Cicero	3125090	Spain	populated place
+Giusto	8965801	Italy	populated place
+Duomo	8949368	Italy	populated place
+Lippo	3048771	Hungary	populated place
+Grado	3175960	Italy	seat of a third-order administrative division
+Ugo	784787	Serbia	populated place
+Cyprus	146669	Cyprus	independent political entity
+Tiber	3165709	Italy	stream mouth(s)
+Sera	496960	Russia	farm
+Doge	721338	Hungary	populated place
+Jerusalem	2894993	Germany	populated place
+Gorgo	3217614	Italy	populated place
+Popes	669891	Romania	populated place
+Rapallo	3169602	Italy	seat of a third-order administrative division
+Mastino	528655	Russia	populated place
+Brilliant	10231981	Cyprus	hotel
+San Terenzo	3167323	Italy	populated place
+Mars	529047	Russia	populated place
+Florence	3176959	Italy	seat of a first-order administrative division
+Seth	2832915	Germany	seat of a fourth-order administrative division
+Malta	2562770	Malta	independent political entity
+Supino	3166023	Italy	seat of a third-order administrative division
+Corsica	8378560	France	historical first-order administrative division
+Civitavecchia	3178587	Italy	seat of a third-order administrative division
+Correggio	3178019	Italy	seat of a third-order administrative division
+Pier	11594338	Germany	populated place
+Pope	456550	Latvia	populated place
+Buggiano	3181819	Italy	seat of a third-order administrative division
+Macci	3279545	Bosnia and Herzegovina	populated place
+Sicily	2523118	Italy	island
+Lady	766850	Poland	populated place
+Casentino	3179901	Italy	valley
+Grand	3015368	France	populated place
+Chiusi	3178754	Italy	seat of a third-order administrative division
+Angeli	661203	Finland	populated place
+Job	3012329	France	populated place
+Muratori	8959449	Italy	populated place
+Foligno	3176854	Italy	seat of a third-order administrative division
+Frejus	3017253	France	populated place
+Pontedera	3170272	Italy	seat of a third-order administrative division
+Joseph	9175006	Italy	hotel
+Ognissanti	3172094	Italy	populated place
+Canterbury	2653877	United Kingdom	populated place
+West	11789175	Romania	region
+Plato	3326574	Montenegro	hill
+Cino	6542522	Italy	third-order administrative division
+Napoleon	3091137	Poland	populated place
+Isaac	3012730	France	populated place
+Toulouse	2972315	France	seat of a first-order administrative division
+Gattolino	8957534	Italy	populated place
+Vatican	6691831	Vatican City	capital of a political entity
+Luna	533326	Russia	populated place
+No	2616443	Denmark	populated place
+Durham	11609048	United Kingdom	region
+Middle	2641934	United Kingdom	populated place
+Malaspina	2515964	Spain	island
+Sed	3045416	Hungary	stream
+Galata	10194917	Cyprus	second-order administrative division
+Salamanca	3111108	Spain	seat of a second-order administrative division
+Fivizzano	3176919	Italy	seat of a third-order administrative division
+Brutus	3102486	Poland	populated place
+Catalonia	3336901	Spain	first-order administrative division
+Cain	3127091	Spain	populated place
+Montepulciano	3172794	Italy	seat of a third-order administrative division
+Macedon	9295845	Greece	hotel
+Birth	2948347	Germany	populated place
+Serravalle	3166645	San Marino	seat of a first-order administrative division
+Ospedale	8953104	Italy	populated place
+Swiss	2658434	Switzerland	independent political entity
+Esau	2929165	Germany	populated place
+American	9599159	Italy	hotel
+Nervi	3172300	Italy	populated place
+St. Anne	3042289	Guernsey	seat of a first-order administrative division
+Ribera	2523619	Italy	seat of a third-order administrative division
+Recco	3169539	Italy	seat of a third-order administrative division
+Narbonne	2990919	France	seat of a third-order administrative division
+Camaldoli	8952099	Italy	populated place
+Italy	3175395	Italy	independent political entity
+Orlando	10629436	Italy	vineyard
+Ferrarese	8962355	Italy	populated place
+Bella	3182232	Italy	seat of a third-order administrative division
+Ad	3330667	Sweden	populated place
+Cardinal	6695857	Italy	peak
+Sardinia	2523227	Italy	island
+Cervara	3179016	Italy	populated place
+Myra	256937	Greece	populated place
+Arts	6356046	Spain	third-order administrative division
+White	9612971	Italy	hotel
+Torano	3165551	Italy	populated place
+La Verna	3174998	Italy	populated place
+Assisi	3182722	Italy	seat of a third-order administrative division
+Strada	8949127	Italy	populated place
+Porta	12118	Cyprus	locality
+Magi	8256033	Russia	populated place
+Niccolò	3167939	Italy	populated place
+Eleonora	8413569	Macedonia	intermittent stream
+Chioggia	3178784	Italy	seat of a third-order administrative division
+La Foce	7627497	Italy	populated place
+Palazzo Pitti	6697950	Italy	palace
+Accademia	8971880	Italy	populated place
+Serchio	3166712	Italy	stream
+Aphrodite	9261211	Greece	hotel
+Chios	259972	Greece	island
+Arno	2725277	Sweden	populated place
+Hope	7300083	United Kingdom	third-order administrative division
+San Raniero	11862306	Italy	populated place
+Porciano	8966627	Italy	populated place
+Melfi	3173615	Italy	seat of a third-order administrative division
+Navarre	3301576	France	historical region
+Portugal	2264397	Portugal	independent political entity
+St. Sebastian	7872261	Austria	historical third-order administrative division
+Montenero	2524068	Italy	mountain
+Pineta	8949084	Italy	populated place
+Antwerp	2803138	Belgium	populated place
+Canova	3028462	France	populated place
+Trojan	726320	Bulgaria	populated place
+Bestia	263463	Greece	populated place
+Signoria	8951728	Italy	populated place
+Ireland	2963597	Ireland	independent political entity
+San Gemignano	8954984	Italy	populated place
+Mansi	6435881	France	fourth-order administrative division
+March	2643071	United Kingdom	populated place
+Vasari	8952149	Italy	populated place
+Aeolus	2759952	Netherlands	mill(s)
+Barcelona	3128760	Spain	seat of a first-order administrative division
+Ah	8030428	Sweden	populated place
+Appiano	3182965	Italy	seat of a third-order administrative division
+Geri	10190060	Cyprus	second-order administrative division
+Wool	2633609	United Kingdom	populated place
+Alexandria	686502	Romania	seat of a first-order administrative division
+Etruria	2649872	United Kingdom	populated place
+Cellini	8962036	Italy	populated place
+Io	9063161	Norway	island
+Garibaldi	3217989	Italy	populated place
+Montorio	3172647	Italy	populated place
+St. John	3237497	Jersey	first-order administrative division
+Gian	3121428	Spain	populated place
+Fraud	3036247	France	populated place
+Cantoria	2520209	Spain	seat of a third-order administrative division
+Prison	8660748	Macedonia	slope(s)
+Signa	3166540	Italy	seat of a third-order administrative division
+Passignano	3171418	Italy	seat of a third-order administrative division
+Luca	3174530	Italy	seat of a second-order administrative division
+Atlas	7594659	Russia	populated place
+Albany	783754	Albania	independent political entity
+Lucrezia	3174508	Italy	populated place
+Alvernia	3035876	France	historical first-order administrative division
+Roland	3141483	Norway	populated place
+Bare	9288286	Macedonia	locality
+Perugino	7279944	Italy	hotel
+Nerli	9652516	Norway	hill
+Porto Venere	11126599	Italy	port
+Damiano	736474	Greece	populated place
+Savona	3167022	Italy	seat of a second-order administrative division
+Palermo	2523920	Italy	seat of a first-order administrative division
+Rheims	2984114	France	seat of a third-order administrative division
+Scotland	2638360	United Kingdom	first-order administrative division
+Pico	3372782	Portugal	mountain
+Lombardy	3174618	Italy	first-order administrative division
+Abbey	2967097	Ireland	populated place
+French	11548646	France	park
+Dino	2661010	Switzerland	populated place
+Spina	253328	Greece	populated place
+Majorca	2514239	Spain	island
+Calci	3181229	Italy	seat of a third-order administrative division
+Bologna	3181928	Italy	seat of a first-order administrative division
+Firenze	3176959	Italy	seat of a first-order administrative division
+Bagni	3182542	Italy	populated place
+Castelnuovo	3199394	Montenegro	seat of a first-order administrative division
+Montescudaio	6543027	Italy	third-order administrative division
+Jericho	2895009	Germany	farm
+Castagno	3179758	Italy	populated place
+Brussels	2800866	Belgium	capital of a political entity
+Elba	3177426	Italy	island
+Adonis	10291387	Slovakia	hotel
+Allegra	10169953	Bulgaria	hotel
+Palazzo Rosso	6639638	Italy	museum
+Abraham	3061278	Slovakia	populated place
+Apollo	5746	United Kingdom	hill
+St	2974733	France	populated place
+Chiesina	9031582	Italy	populated place
+Val	8621854	Macedonia	locality
+Caprera	3180633	Italy	island
+Che	7290536	United Kingdom	second-order administrative division
+Greci	676755	Romania	seat of a second-order administrative division
+Chesta	10693709	Macedonia	field(s)
+Ravenna	3169561	Italy	seat of a second-order administrative division
+Padua	3171728	Italy	seat of a second-order administrative division
+Pilate	6957770	Belgium	farm
+Bacon	2826429	Germany	populated place
+Pietrasanta	3170778	Italy	seat of a third-order administrative division
+Zacharias	251285	Greece	populated place
+North	2990129	France	second-order administrative division
+Neri	2990745	France	populated place
+Lucchesi	8968281	Italy	populated place
+Cavalieri	8953517	Italy	populated place
+Magdalen	9746512	Norway	valley
+Ii	656851	Finland	seat of a third-order administrative division
+Jordan	8692922	Czechia	mountain
+Castello	2519752	Spain	seat of a second-order administrative division
+Tendola	3165821	Italy	populated place
+Germany	2921044	Germany	independent political entity
+Porta Nuova	11839782	Italy	arch
+Pass	6941568	Poland	populated place
+Pontassieve	3170317	Italy	seat of a third-order administrative division
+Donatello	6470969	Italy	hotel
+Torri	3165395	Italy	seat of a third-order administrative division
+Battaglia	3182278	Italy	seat of a third-order administrative division
+Europe	6255148	continent
+Desert	3301580	Ireland	locality
+Festa	8983394	Italy	populated locality
+Masolino	3173781	Italy	populated place
+Opera	3172000	Italy	seat of a third-order administrative division
+Church	2653049	United Kingdom	populated place
+Mediterranean	9962130	Greece	hotel
+Porto	2735943	Portugal	seat of a first-order administrative division
+Macra	6543449	Italy	third-order administrative division
+Caterina	10295799	Greece	hotel
+Robbia	11219675	Switzerland	house(s)
+Poggio	3170497	Italy	populated place
+Paolo	10105682	Greece	hotel
+Trasimeno	3165310	Italy	lake
+Borgo	3031537	France	populated place
+Francesco	3168368	Italy	populated place
+Se	6930661	Portugal	third-order administrative division
+Begun	712691	Ukraine	populated place
+Grosseto	3175786	Italy	seat of a second-order administrative division
+Eagle	2650578	United Kingdom	populated place
+Cambio	9031232	Italy	populated place
+Veronese	9031895	Italy	populated place
+Solomon	726980	Bulgaria	abandoned populated place
+Flora	3156987	Norway	second-order administrative division
+Music	3194636	Bosnia and Herzegovina	populated locality
+Arch	7285090	Switzerland	third-order administrative division
+Chiavari	3178832	Italy	seat of a third-order administrative division
+Hell	3153158	Norway	populated place
+Turk	3307693	Ireland	populated locality
+Massa	3173775	Italy	seat of a second-order administrative division
+Vincigliata	8982272	Italy	populated place
+Pantheon	6269532	France	monument
+Genoa	3176219	Italy	seat of a first-order administrative division
+Prado	2735748	Portugal	populated place
+Victory	8015415	United Kingdom	museum
+Anjou	3037561	France	region
+Capitano	8950148	Italy	populated place
+Ma	2123402	Russia	stream
+Madonnina	8956682	Italy	populated place
+Dragoni	3177480	Italy	populated place
+Priori	3256170	Bosnia and Herzegovina	locality
+Majano	6543578	Italy	third-order administrative division
+San Miniato	3167954	Italy	populated place
+Scala	3167009	Italy	seat of a third-order administrative division
+Spezia	3175081	Italy	seat of a second-order administrative division
+Viareggio	3164433	Italy	seat of a third-order administrative division
+Gallicano	3176378	Italy	seat of a third-order administrative division
+Servi	733754	Greece	populated place
+Toledo	2510409	Spain	seat of a first-order administrative division
+Porta Romana	3184419	Albania	populated place
+God	3052241	Hungary	populated place
+Botticelli	9609896	Italy	hotel
+Ferrara	6299592	Italy	airport
+Lamba	8618625	Estonia	locality
+Spring	666334	Romania	seat of a second-order administrative division
+Sapienza	8972173	Italy	populated place
+Celle	2940213	Germany	seat of a third-order administrative division
+St. Michael	2766501	Austria	populated place
+Rachel	669388	Romania	populated place
+Verona	3164527	Italy	seat of a second-order administrative division
+Mantegna	8967529	Italy	populated place
+Set	2974733	France	populated place
+San Fruttuoso	3168356	Italy	populated place
+Rosina	6461503	Bulgaria	third-order administrative division
+Seville	2510911	Spain	seat of a first-order administrative division
+Nazareth	2790433	Belgium	populated place
+Liberty	10112879	Italy	hotel
+Amiens	3037854	France	seat of a second-order administrative division
+Cemetery	6940255	Denmark	common
+Augsburg	2954172	Germany	seat of a second-order administrative division
+Olympus	146257	Cyprus	mountain
+Pisan	6543430	Italy	third-order administrative division
+Careggi	8469164	Italy	populated place
+Columbus	6468534	Italy	hotel
+Berlin	2950159	Germany	capital of a political entity
+Apulia	2742837	Portugal	populated place
+Fortini	8973152	Italy	populated place
+Renaissance	9257530	Switzerland	hotel
+Tours	2972191	France	seat of a second-order administrative division
+German	9782171	Isle of Man	first-order administrative division
+St. Joseph	10299443	Germany	hotel
+Ontignano	10226947	Italy	section of populated place
+Passo	8011370	Portugal	third-order administrative division
+Gratz	2778067	Austria	seat of a first-order administrative division
+Aqua	10169995	Bulgaria	hotel
+Ham	2647589	United Kingdom	populated place
+Salerno	3168673	Italy	seat of a second-order administrative division
+Art	2661708	Switzerland	seat of a third-order administrative division
+Horse	3286417	Ireland	reef(s)
+Palio	7279846	Italy	hotel
+Giotto	6471935	Italy	hotel
+Dawn	6557902	Germany	fourth-order administrative division
+Bouillon	2801283	Belgium	populated place
+Pallas	3313350	Ireland	rock
+Life	10167971	Cyprus	hotel
+Mantua	3174051	Italy	seat of a second-order administrative division
+St. James	7677047	United Kingdom	metro station
+Montfort	2992589	France	populated place
+St. Nicholas	7114343	Croatia	church
+Camporgiano	3180929	Italy	seat of a third-order administrative division
+Athens	264371	Greece	capital of a political entity
+Uberti	8956525	Italy	populated place
+Leghorn	3174658	Italy	second-order administrative division
+Bethlehem	2759034	Netherlands	populated place
+Pisa	3170647	Italy	seat of a second-order administrative division
+Masaccio	9954890	Italy	hotel
+England	2649994	United Kingdom	area
+Padova	3171728	Italy	seat of a second-order administrative division
+Lettere	3174814	Italy	third-order administrative division
+Spoleto	3166236	Italy	seat of a third-order administrative division
+Piero	8978827	Italy	populated place
+Hunger	2897427	Germany	populated place
+Saints	2977101	France	populated place
+Cascina	3179977	Italy	seat of a third-order administrative division
+Naples	3172394	Italy	seat of a first-order administrative division
+Prince	2985310	France	populated place
+Pietro	3167852	Italy	populated place
+Rubens	6944685	Italy	hotel
+Urbino	3165035	Italy	seat of a third-order administrative division
+Andromeda	10230021	Bulgaria	hotel
+Negroponte	262565	Greece	island
+Humble	2619670	Denmark	populated place
+Umbria	3165048	Italy	first-order administrative division
+Pratolino	3169906	Italy	populated place
+Salita	8957852	Italy	populated place
+Long	2997781	France	populated place
+Dogana	3177564	San Marino	populated place
+Loggia	8982655	Italy	populated locality
+Bethesda	7293620	United Kingdom	third-order administrative division
+Fabriano	3177315	Italy	seat of a third-order administrative division
+Cast	3028425	France	populated place
+Campanile	6934658	Switzerland	peak
+Saltino	3168624	Italy	populated place
+Montignoso	3172669	Italy	seat of a third-order administrative division
+Fine	2926824	Germany	farm
+Sorrento	3166350	Italy	seat of a third-order administrative division
+Primavera	10301766	Albania	hotel
+Piazza Savonarola	10287181	Italy	monument
+Gherardo	8968241	Italy	populated place
+Pagana	3224612	Italy	populated place
+Mezzo	3196198	Croatia	island
+Bavaria	2951840	Germany	historical region
+Cortona	3177948	Italy	seat of a third-order administrative division
+Piedmont	3299472	Ireland	locality
+Montecatini	3172997	Italy	seat of a third-order administrative division
+Lorraine	2997550	France	region
+Moroni	8963602	Italy	populated place
+Troy	10115076	Russia	hotel
+Walton	2634836	United Kingdom	populated place
+Castracani	8962453	Italy	populated place
+Castelfranco	3179687	Italy	seat of a third-order administrative division
+Castelvecchio	3179461	Italy	populated place
+Cardellino	8981279	Italy	populated place
+Spain	2510769	Spain	independent political entity
+Annunziata	7670051	Switzerland	populated place
+Palatine	2962086	Ireland	populated place
+Mentone	2994497	France	populated place
+Bondo	8714341	Switzerland	populated place
+Holland	2750405	Netherlands	independent political entity
+Portofino	3170092	Italy	seat of a third-order administrative division
+Perugia	3171180	Italy	seat of a first-order administrative division
+August	6478935	Spain	hotel
+Ferdinand	8739953	Czechia	hill
+Milan	3173435	Italy	seat of a first-order administrative division
+Hermes	3013424	France	populated place
+Castelletto	8949123	Italy	populated place
+Germania	2921044	Germany	independent political entity
+Barbary	8195896	Belarus	populated place
+Porta Fiorentina	11836773	Italy	gate
+Ruggieri	8969384	Italy	populated place
+Bardine	9031544	Italy	populated place
+Misericordia	2266372	Portugal	populated place
+St. Mary	3237212	Jersey	first-order administrative division
+Arles	3036938	France	seat of a third-order administrative division
+Barriera	3218560	Italy	populated place
+Below	2951169	Germany	populated place
+Roman	668732	Romania	seat of a second-order administrative division
+St. Peter	2841488	Germany	populated place
+Oxford	2640729	United Kingdom	seat of a second-order administrative division
+Sarzana	3167104	Italy	seat of a third-order administrative division
+Reni	695670	Ukraine	seat of a second-order administrative division
+Gilli	8981946	Italy	populated place
+Maddalena	2564536	Malta	locality
+Doria	2524830	Italy	populated place
+Greece	390903	Greece	independent political entity
+St. George	6422032	Guernsey	populated place
+London	2643743	United Kingdom	capital of a political entity
+Venus	7283138	Romania	populated place
+Piombino	3170674	Italy	seat of a third-order administrative division
+Born	2960739	Luxembourg	populated place
+Michelangelo	10121970	Romania	hotel
+Signorelli	2523111	Italy	populated place
+Cadiz	2520600	Spain	seat of a second-order administrative division
+Turin	3165524	Italy	seat of a first-order administrative division
+Luxembourg	2960313	Luxembourg	independent political entity
+Pis	2987035	France	populated place
+Sinai	2728846	Svalbard and Jan Mayen	mountain
+Livorno	3174659	Italy	seat of a second-order administrative division
+Eden	3013365	France	populated place
+Far	9440152	Norway	farm
+Splendid	10121014	Romania	hotel
+Domenichino	9955349	Italy	hotel
+E	3000658	France	populated place
+Eastern	2650458	United Kingdom	administrative division
+Damian	679790	Romania	populated place
+Persia	8982563	Italy	populated locality
+Maso	3119458	Spain	populated place
+San	3066412	Czechia	populated place
+Gelati	8973642	Italy	populated place
+Poppi	3170172	Italy	seat of a third-order administrative division
+Murillo	3115844	Spain	section of populated place
+Flanders	3337388	Belgium	first-order administrative division
+Africa	9260485	Greece	hotel
+St. Paul	2766461	Austria	populated place
+Prato	3169921	Italy	seat of a second-order administrative division
+Medici	3284996	Croatia	populated place
+Monte	2659613	Switzerland	seat of a second-order administrative division
+Note	596563	Lithuania	stream
+Dante	2757835	Netherlands	populated place
+Guido	2524549	Italy	populated place
+Canaletto	8954136	Italy	populated place
+Piazza	3170899	Italy	seat of a third-order administrative division
+European	10056784	Ukraine	hotel
+Paris	2988507	France	capital of a political entity
+Madrid	3117735	Spain	capital of a political entity
+Asia	8981743	Italy	populated place
+St.	2974733	France	populated place
+Curzola	3197710	Croatia	seat of a second-order administrative division
+Maremma	3173975	Italy	region
+Franchi	8978757	Italy	populated place
+Salome	2976348	France	populated place
+Bellano	3182227	Italy	seat of a third-order administrative division
+Siena	3166548	Italy	seat of a second-order administrative division
+Madonna	3174351	Italy	populated place
+Gorgona	3175991	Italy	island
+Chiesa	3025175	France	populated place
+Durazzo	3185728	Albania	seat of a first-order administrative division
+Gardens	6466916	United Kingdom	hotel
+Sultan	486316	Russia	populated place
+Israel	10058302	Finland	island
+Avenza	3182643	Italy	populated place
+Caiano	7910911	Italy	populated place
+South	3337406	Iceland	first-order administrative division
+Romana	3169068	Italy	region
+Dicomano	3177588	Italy	seat of a third-order administrative division
+Lepanto	256639	Greece	seat of a third-order administrative division
+Vico	2969386	France	populated place
+Bagno	776490	Poland	populated place
+Leoni	2878684	Germany	populated place
+Force	3017796	France	populated place
+Masons	11518449	Switzerland	house(s)
+Maiano	3174230	Italy	populated place
+Alpe	2958202	Germany	populated place
+Per	3046488	Hungary	populated place
+Augustus	6500011	Italy	hotel
+Fra	2925533	Germany	seat of a third-order administrative division
+Frate	3028296	France	populated place
+Palazzo	3171644	Italy	populated place
+Montefeltro	3172933	Italy	region
+Fosdinovo	3176661	Italy	seat of a third-order administrative division
+Crete	6697802	Greece	first-order administrative division
+Pisani	8984587	Italy	populated locality
+Weyden	2813040	Germany	seat of a third-order administrative division
+Tintoretto	9612508	Italy	hotel

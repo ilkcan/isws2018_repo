@@ -1,0 +1,144 @@
+Lombardy
+	http://dbpedia.org/resource/Lombardy	0.999824168048006
+Birmingham
+	http://dbpedia.org/resource/Birmingham	0.9949894200409923
+French
+	http://dbpedia.org/resource/France	0.6389776427098866
+Cremona
+	http://dbpedia.org/resource/Cremona	0.9968403930258809
+Louvre
+	http://dbpedia.org/resource/Louvre	0.9975622779964395
+Romans
+	http://dbpedia.org/resource/Ancient_Rome	0.6515340967269891
+Thames
+	http://dbpedia.org/resource/River_Thames	0.9974571473150767
+France
+	http://dbpedia.org/resource/France	0.9978151001839691
+Americans
+	http://dbpedia.org/resource/United_States	0.6948901639597981
+Cairo
+	http://dbpedia.org/resource/Cairo	0.9998318302762856
+Cambray
+	http://dbpedia.org/resource/Cambrai	0.9999952423623228
+Aquileia
+	http://dbpedia.org/resource/Aquileia	0.9808366992900182
+Russia
+	http://dbpedia.org/resource/Russia	0.9960148861289025
+Cyprus
+	http://dbpedia.org/resource/Cyprus	0.9979821083439069
+Byzantine
+	http://dbpedia.org/resource/Byzantine_Empire	0.9955302574606053
+Padua
+	http://dbpedia.org/resource/Padua	0.9933310760536604
+Chinese
+	http://dbpedia.org/resource/China	0.600323214210549
+Florence
+	http://dbpedia.org/resource/Florence	0.9993697125161629
+Venetian Signoria
+	http://dbpedia.org/resource/Republic_of_Venice	0.8133692888755683
+Palmas
+	http://dbpedia.org/resource/Miangas	0.37900420492709086
+Germany
+	http://dbpedia.org/resource/Germany	0.9934068472333831
+Burano
+	http://dbpedia.org/resource/Burano	0.9999996217968428
+East
+	http://dbpedia.org/resource/East_Germany	0.5584557404302157
+Spain
+	http://dbpedia.org/resource/Spain	0.996149017874615
+Europe
+	http://dbpedia.org/resource/Europe	0.9996972549140197
+Switzerland
+	http://dbpedia.org/resource/Switzerland	0.998878509630826
+Bengal
+	http://dbpedia.org/resource/Bengal	0.9685518088856911
+Japan
+	http://dbpedia.org/resource/Japan	0.9988981056382511
+Italian
+	http://dbpedia.org/resource/Italy	0.7972496325633278
+Turkish
+	http://dbpedia.org/resource/Turkey	0.45970784116644636
+Roman
+	http://dbpedia.org/resource/Ancient_Rome	0.5479578211605821
+Oxford
+	http://dbpedia.org/resource/Oxford	0.6878811873847683
+Hun
+	http://dbpedia.org/resource/Huns	0.9874162863655254
+Jesolo
+	http://dbpedia.org/resource/Jesolo	0.9992977280330972
+Spanish
+	http://dbpedia.org/resource/Spain	0.4903815022360197
+Greece
+	http://dbpedia.org/resource/Greece	0.9972778470970728
+Orfano
+	http://dbpedia.org/resource/Orfani	0.999999910329969
+London
+	http://dbpedia.org/resource/London	0.999457497603158
+Austrian
+	http://dbpedia.org/resource/Austrian_Empire	0.3129693627584713
+Redentore
+	http://dbpedia.org/resource/Il_Redentore	0.8236514895261239
+Turchi
+	http://dbpedia.org/resource/Turchi	0.9999906962548312
+Venetians
+	http://dbpedia.org/resource/Republic_of_Venice	0.8725725610010304
+American
+	http://dbpedia.org/resource/United_States	0.9861331475696835
+Venetian
+	http://dbpedia.org/resource/Republic_of_Venice	0.5966056577130066
+Dalmatia
+	http://dbpedia.org/resource/Dalmatia	0.997697015248596
+Italy
+	http://dbpedia.org/resource/Italy	0.9931708504744164
+America
+	http://dbpedia.org/resource/United_States	0.9604591517001898
+Providence
+	http://dbpedia.org/resource/Providence,_Rhode_Island	0.8806305829814356
+Etruscan
+	http://dbpedia.org/resource/Etruscan_civilization	0.9146648592757973
+Bari
+	http://dbpedia.org/resource/Bari	0.828403224041359
+Bohemia
+	http://dbpedia.org/resource/Bohemia	0.9772475911718749
+Great
+	http://dbpedia.org/resource/Great_St_Bernard_Pass	0.24967447398509357
+Chioggia
+	http://dbpedia.org/resource/Chioggia	0.993951725200836
+Verona
+	http://dbpedia.org/resource/Verona	0.9666464087157607
+Burma
+	http://dbpedia.org/resource/Myanmar	0.9984321523570783
+Paris
+	http://dbpedia.org/resource/Paris	0.9998991535972286
+European
+	http://dbpedia.org/resource/European_Union	0.38392842064442373
+Ireland
+	http://dbpedia.org/resource/Ireland	0.761533757607475
+Torcello
+	http://dbpedia.org/resource/Torcello	0.9897706272915663
+Hunnish
+	http://dbpedia.org/resource/Huns	0.9999998022426748
+Murano
+	http://dbpedia.org/resource/Murano	0.9952060825721087
+Venice
+	http://dbpedia.org/resource/Venice	0.9865988624093786
+Crete
+	http://dbpedia.org/resource/Crete	0.99813411049608
+German
+	http://dbpedia.org/resource/Germany	0.582281717182531
+Rome
+	http://dbpedia.org/resource/Rome	0.9888104893137306
+Alexandria
+	http://dbpedia.org/resource/Alexandria	0.9991250531228991
+Mazzorbo
+	http://dbpedia.org/resource/Mazzorbo	0.9999999775824728
+Florentines
+	http://dbpedia.org/resource/Florence	0.9747034073064261
+Pordenone
+	http://dbpedia.org/resource/Pordenone	0.913830328714072
+San Cassiano
+	http://dbpedia.org/resource/San_Cassiano	0.9999997583952415
+Brenta
+	http://dbpedia.org/resource/Brenta_group	0.4072017796092822
+Greenwich
+	http://dbpedia.org/resource/Greenwich	0.9630601350980382

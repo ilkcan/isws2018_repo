@@ -1,0 +1,138 @@
+French
+	http://dbpedia.org/resource/France	0.6389776427098866
+Devon
+	http://dbpedia.org/resource/Devon	0.9978096312601903
+Hellenic
+	http://dbpedia.org/resource/Greece	0.41954421577931683
+Naples
+	http://dbpedia.org/resource/Naples	0.9937024338771233
+Romans
+	http://dbpedia.org/resource/Ancient_Rome	0.6515340967269891
+Caesarea
+	http://dbpedia.org/resource/Caesarea	0.7552127189023718
+Neapolitans
+	http://dbpedia.org/resource/Naples	0.9244197637011787
+Thames
+	http://dbpedia.org/resource/River_Thames	0.9974571473150767
+France
+	http://dbpedia.org/resource/France	0.9978151001839691
+Bologna
+	http://dbpedia.org/resource/Bologna	0.9698938017494135
+Catanzaro
+	http://dbpedia.org/resource/Catanzaro	0.893219264923843
+Apennine
+	http://dbpedia.org/resource/Apennine_Mountains	0.999999701004841
+Ionian
+	http://dbpedia.org/resource/Ionian_Sea	0.541783065233851
+San Sostene
+	http://dbpedia.org/resource/San_Sostene	0.9999999999998543
+Francois
+	http://dbpedia.org/resource/Francois,_Newfoundland_and_Labrador	0.8188749846664026
+Sorrento
+	http://dbpedia.org/resource/Sorrento	0.9435456443079476
+Eastern Empire
+	http://dbpedia.org/resource/Roman_Empire	0.7200785419720039
+Greci
+	http://dbpedia.org/resource/Greci,_Campania	0.7307478305082198
+Croton
+	http://dbpedia.org/resource/Crotone	0.9817197025356168
+Ravenna
+	http://dbpedia.org/resource/Ravenna	0.98877959535559
+Rhegium
+	http://dbpedia.org/resource/Reggio_Calabria	0.9999997699544048
+Marsala
+	http://dbpedia.org/resource/Marsala	0.9083888705320325
+Sicily
+	http://dbpedia.org/resource/Sicily	0.9952095240603257
+Calabria
+	http://dbpedia.org/resource/Calabria	0.9997078649140196
+Great Sila
+	http://dbpedia.org/resource/Great_St_Bernard_Pass	0.24967447398509357
+Messina
+	http://dbpedia.org/resource/Messina	0.9768676552924258
+Crathis
+	http://dbpedia.org/resource/Crati	0.999999328066446
+New York
+	http://dbpedia.org/resource/New_York	0.6949936759617363
+Europe
+	http://dbpedia.org/resource/Europe	0.9996972549140197
+Tarentum
+	http://dbpedia.org/resource/Taranto	0.9887635861076084
+San Fili
+	http://dbpedia.org/resource/San_Fili	0.999999999993225
+Cotrone
+	http://dbpedia.org/resource/Crotone	0.9999999098232953
+Italian
+	http://dbpedia.org/resource/Italy	0.7972496325633278
+Roman
+	http://dbpedia.org/resource/Ancient_Rome	0.5479578211605821
+Turkish
+	http://dbpedia.org/resource/Turkey	0.45970784116644636
+Cosenza
+	http://dbpedia.org/resource/Cosenza	0.8853413152063527
+Fontanella
+	http://dbpedia.org/resource/Fontanella,_Lombardy	0.4854170230283817
+Essex
+	http://dbpedia.org/resource/Essex	0.9430812916957294
+Spanish
+	http://dbpedia.org/resource/Spain	0.4903815022360197
+Greece
+	http://dbpedia.org/resource/Greece	0.9972778470970728
+Ionian Sea
+	http://dbpedia.org/resource/Ionian_Sea	0.9999999999995453
+London
+	http://dbpedia.org/resource/London	0.999457497603158
+Italy
+	http://dbpedia.org/resource/Italy	0.9931708504744164
+Providence
+	http://dbpedia.org/resource/Providence,_Rhode_Island	0.8806305829814356
+Portici
+	http://dbpedia.org/resource/Portici	0.9976266237279285
+Calabrians
+	http://dbpedia.org/resource/Calabria	0.9999997097303209
+Neapolitan
+	http://dbpedia.org/resource/Naples	0.7281487727861209
+Africa
+	http://dbpedia.org/resource/Africa	0.9999095345854906
+Great
+	http://dbpedia.org/resource/Great_St_Bernard_Pass	0.24967447398509357
+Capri
+	http://dbpedia.org/resource/Capri	0.9860809845899537
+San Gregorio
+	http://dbpedia.org/resource/San_Gregorio,_California	0.8098225592476576
+European
+	http://dbpedia.org/resource/European_Union	0.38392842064442373
+Paris
+	http://dbpedia.org/resource/Paris	0.9998991535972286
+Squillace
+	http://dbpedia.org/resource/Squillace	0.9825779316795804
+Crati
+	http://dbpedia.org/resource/Crati	0.9999998112011746
+Etna
+	http://dbpedia.org/resource/Mount_Etna	0.9985672029106603
+Western Empire
+	http://dbpedia.org/resource/Roman_Empire	0.6970812976985888
+Un
+	http://dbpedia.org/resource/United_Nations	0.9991377486013001
+Cosentia
+	http://dbpedia.org/resource/Cosenza	0.9999999097785169
+Taranto
+	http://dbpedia.org/resource/Taranto	0.977734479973114
+Siena
+	http://dbpedia.org/resource/Siena	0.9050154126595743
+Sicilian
+	http://dbpedia.org/resource/Sicily	0.6790486375142776
+German
+	http://dbpedia.org/resource/Germany	0.582281717182531
+Rome
+	http://dbpedia.org/resource/Rome	0.9888104893137306
+Hymettus
+	http://dbpedia.org/resource/Hymettus	0.9999998148452598
+Amid
+	http://dbpedia.org/resource/Diyarbakır	0.9944094230790456
+Athens
+	http://dbpedia.org/resource/Athens	0.9975419292153778
+Lo
+	http://dbpedia.org/resource/Lo_(island)	0.40717575196512995
+Taras
+	http://dbpedia.org/resource/Taranto	0.9909915865727144

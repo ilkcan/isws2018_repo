@@ -1,0 +1,129 @@
+French	11548646	France	park
+Airolo	2661830	Switzerland	populated place
+California	11592124	United Kingdom	populated place
+Havre	3003796	France	seat of a third-order administrative division
+Naples	3172394	Italy	seat of a first-order administrative division
+Pietro	3167852	Italy	populated place
+Exile	2731310	Svalbard and Jan Mayen	mountain
+France	3017382	France	independent political entity
+Lyons	2996944	France	seat of a first-order administrative division
+Klamm	2774314	Austria	valley
+Death	2957643	Germany	populated place
+Faustino	8970613	Italy	populated place
+San Tommaso	8469179	Italy	populated place
+Adige	3183470	Italy	stream
+Pure	850765	Serbia	locality
+Garda	3176320	Italy	seat of a third-order administrative division
+Bognor	2655262	United Kingdom	populated place
+Land	3148486	Norway	populated place
+Ho	2706098	Sweden	populated place
+O	2615791	Denmark	populated place
+Bavaria	2951840	Germany	historical region
+Enrico	6467444	United Kingdom	hotel
+Denmark	2623032	Denmark	independent political entity
+Broad	9867268	Ireland	locality
+Lucerne	2659811	Switzerland	seat of a first-order administrative division
+Sicily	2523118	Italy	island
+Germany	2921044	Germany	independent political entity
+Bellinzona	2661567	Switzerland	seat of a first-order administrative division
+Rigoletto	9175899	Italy	hotel
+Island	2629691	Iceland	independent political entity
+Agostino	8979279	Italy	populated place
+Latin	3196743	Croatia	populated place
+New York	2641508	United Kingdom	populated place
+Europe	6255148	continent
+Ticino	2658370	Switzerland	first-order administrative division
+Falls	2927869	Germany	populated place
+Ginzling	2778549	Austria	populated place
+Fiori	8980467	Italy	populated place
+Graz	2778067	Austria	seat of a first-order administrative division
+Streatham	2636675	United Kingdom	populated place
+Brescia	3181554	Italy	seat of a second-order administrative division
+Lumpen	3332666	Sweden	rock
+Zurich	2657896	Switzerland	seat of a first-order administrative division
+Milan	3173435	Italy	seat of a first-order administrative division
+Lugano	2659836	Switzerland	seat of a second-order administrative division
+Orpheus	10338324	Bulgaria	hotel
+Switzerland	2658434	Switzerland	independent political entity
+Chiasso	2661176	Switzerland	populated place
+Paolo	10105682	Greece	hotel
+Carina	851028	Serbia	locality
+Loose	2643604	United Kingdom	populated place
+Francesco	3168368	Italy	populated place
+Roman	668732	Romania	seat of a second-order administrative division
+Signore	8958179	Italy	populated place
+Pan	2684456	Sweden	lake
+Eagle	2650578	United Kingdom	populated place
+Göschenen	2660553	Switzerland	populated place
+Middle	2641934	United Kingdom	populated place
+Lake	3336075	Montenegro	locality
+Cornwall	11609027	United Kingdom	region
+Greece	390903	Greece	independent political entity
+London	2643743	United Kingdom	capital of a political entity
+Lago	2524468	Italy	seat of a third-order administrative division
+Munich	2867714	Germany	seat of a first-order administrative division
+Michelangelo	10121970	Romania	hotel
+Soul	2974058	France	populated place
+Swiss	2658434	Switzerland	independent political entity
+Basel	2661604	Switzerland	seat of a first-order administrative division
+American	9599159	Italy	hotel
+Eden	3013365	France	populated place
+Italy	3175395	Italy	independent political entity
+Phaedra	10127585	Greece	hotel
+America	2759831	Netherlands	populated place
+Ours	2988961	France	populated place
+Tripoli	252601	Greece	seat of a first-order administrative division
+Però	6542313	Italy	third-order administrative division
+Bern	2661552	Switzerland	capital of a political entity
+Serata	6539107	Italy	third-order administrative division
+San	3066412	Czechia	populated place
+Jaufen	6939989	Germany	peak
+Geneva	2660646	Switzerland	seat of a first-order administrative division
+White	9612971	Italy	hotel
+God	3052241	Hungary	populated place
+San Francesco	3168368	Italy	populated place
+Assisi	3182722	Italy	seat of a third-order administrative division
+Iphigenia	9950811	Cyprus	hotel
+Verona	3164527	Italy	seat of a second-order administrative division
+Aphrodite	9261211	Greece	hotel
+Mantegna	8967529	Italy	populated place
+Marco	3173987	Italy	populated place
+Baden	2661646	Switzerland	seat of a second-order administrative division
+European	10056784	Ukraine	hotel
+San Gaudenzio	8960406	Italy	populated place
+Ireland	2963597	Ireland	independent political entity
+Constance	8012759	Portugal	third-order administrative division
+Strange	2785979	Belgium	stream
+Signoria	8951728	Italy	populated place
+Heaven	9281322	Greece	hotel
+Plain	2768729	Austria	populated place
+Shelley	2638065	United Kingdom	populated place
+Andermatt	2661750	Switzerland	populated place
+Leonardo	3110479	Spain	seat of a third-order administrative division
+Goethe	10119553	Germany	hotel
+Venice	3164603	Italy	seat of a first-order administrative division
+Renaissance	9257530	Switzerland	hotel
+Salò	637948	Finland	seat of a third-order administrative division
+Madonna	3174351	Italy	populated place
+German	9782171	Isle of Man	first-order administrative division
+Rome	3169070	Italy	capital of a political entity
+Lord	3146940	Norway	stream
+Strindberg	9470766	Norway	farm
+Schaffhausen	2658761	Switzerland	seat of a first-order administrative division
+Meran	3173577	Italy	seat of a third-order administrative division
+Stuart	7117981	United Kingdom	hotel
+Christian	3319459	Austria	farm
+Class	10100530	Albania	hotel
+Quick	11669921	Austria	populated place
+Life	10167971	Cyprus	hotel
+Maria	2514139	Spain	seat of a third-order administrative division
+South	3337406	Iceland	first-order administrative division
+Love	590500	Estonia	populated place
+Bushel	3031961	France	populated place
+Me	6433888	France	fourth-order administrative division
+Dago	592132	Estonia	island
+Cromwell	2651922	United Kingdom	populated place
+Caruso	8977091	Italy	populated place
+Regina	2121652	Russia	stream
+Summer	9171046	Spain	hotel
+England	2649994	United Kingdom	area

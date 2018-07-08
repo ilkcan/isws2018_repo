@@ -1,0 +1,114 @@
+Falterona
+	http://dbpedia.org/resource/Monte_Falterona	0.9999999120486865
+Grottaferrata
+	http://dbpedia.org/resource/Grottaferrata	0.9999999214087967
+Vicovaro
+	http://dbpedia.org/resource/Vicovaro	0.9999998947917652
+French
+	http://dbpedia.org/resource/France	0.6389776427098866
+Naples
+	http://dbpedia.org/resource/Naples	0.9937024338771233
+Umbria
+	http://dbpedia.org/resource/Umbria	0.9995878866860183
+Campagna
+	http://dbpedia.org/resource/Campagna	0.9583778144995314
+Ravenna
+	http://dbpedia.org/resource/Ravenna	0.98877959535559
+Byzantine
+	http://dbpedia.org/resource/Byzantine_Empire	0.9955302574606053
+Malta
+	http://dbpedia.org/resource/Malta	0.9991064331448091
+Florence
+	http://dbpedia.org/resource/Florence	0.9993697125161629
+Chinese
+	http://dbpedia.org/resource/China	0.600323214210549
+Nice
+	http://dbpedia.org/resource/Nice	0.9810279337106225
+North
+	http://dbpedia.org/resource/North_America	0.36786899046491
+Olevano
+	http://dbpedia.org/resource/Olevano_Romano	0.9999997643838612
+Germany
+	http://dbpedia.org/resource/Germany	0.9934068472333831
+Nettuno
+	http://dbpedia.org/resource/Nettuno	0.9985529588383263
+Desine
+	http://dbpedia.org/resource/Desine	0.6677028691500406
+Foligno
+	http://dbpedia.org/resource/Foligno	0.9958332216851294
+East
+	http://dbpedia.org/resource/East_Germany	0.5584557404302157
+Palatine
+	http://dbpedia.org/resource/Electoral_Palatinate	0.4067148118800967
+Perugia
+	http://dbpedia.org/resource/Perugia	0.889063891149214
+Mediterranean
+	http://dbpedia.org/resource/Mediterranean_Sea	0.992661018709364
+Genzano
+	http://dbpedia.org/resource/Genzano_di_Roma	0.9719572467734952
+Rhodian
+	http://dbpedia.org/resource/Rhodes	0.999999802210807
+Montanara
+	http://dbpedia.org/resource/Sarmede	0.9999996722292157
+Vatican
+	http://dbpedia.org/resource/Holy_See	0.6520481345050424
+Roman
+	http://dbpedia.org/resource/Ancient_Rome	0.5479578211605821
+Italian
+	http://dbpedia.org/resource/Italy	0.7972496325633278
+Spanish
+	http://dbpedia.org/resource/Spain	0.4903815022360197
+Segni
+	http://dbpedia.org/resource/Segni	0.8816078800672925
+Tuscany
+	http://dbpedia.org/resource/Tuscany	0.9888793899876532
+London
+	http://dbpedia.org/resource/London	0.999457497603158
+Saba
+	http://dbpedia.org/resource/Saba	0.9739064698025293
+Swiss
+	http://dbpedia.org/resource/Switzerland	0.9940310476982672
+American
+	http://dbpedia.org/resource/United_States	0.9861331475696835
+Venetian
+	http://dbpedia.org/resource/Republic_of_Venice	0.5966056577130066
+Italy
+	http://dbpedia.org/resource/Italy	0.9931708504744164
+Valmontone
+	http://dbpedia.org/resource/Valmontone	0.9999998592443183
+Rhodope
+	http://dbpedia.org/resource/Rhodope_Mountains	0.9957635176406101
+Song
+	http://dbpedia.org/resource/Song_dynasty	0.7319586842589139
+Anzio
+	http://dbpedia.org/resource/Anzio	0.8218348630482915
+Fiumicino
+	http://dbpedia.org/resource/Fiumicino	0.9655584799260222
+Sabina
+	http://dbpedia.org/resource/Roman_Catholic_Suburbicarian_Diocese_of_Sabina-Poggio_Mirteto	0.5387338287771258
+Great
+	http://dbpedia.org/resource/Great_St_Bernard_Pass	0.24967447398509357
+Colonne
+	http://dbpedia.org/resource/Colonne	0.9999909664590658
+Cantalupo
+	http://dbpedia.org/resource/Cantalupo_in_Sabina	0.9999998070995959
+Frascati
+	http://dbpedia.org/resource/Frascati	0.9910867511016968
+Tuscan
+	http://dbpedia.org/resource/Tuscany	0.7136687282127143
+Rocca
+	http://dbpedia.org/resource/Arcevia	0.9879422349977315
+Au
+	http://dbpedia.org/resource/Australia	0.836656089905995
+Venice
+	http://dbpedia.org/resource/Venice	0.9865988624093786
+Sicilian
+	http://dbpedia.org/resource/Sicily	0.6790486375142776
+Rome
+	http://dbpedia.org/resource/Rome	0.9888104893137306
+Arezzo
+	http://dbpedia.org/resource/Arezzo	0.9198586019400611
+Ponte Mammolo
+	http://dbpedia.org/resource/Ponte_Mammolo_(Rome_Metro)	0.9999944463218883
+Toscanella
+	http://dbpedia.org/resource/Tuscania	0.999999803746087

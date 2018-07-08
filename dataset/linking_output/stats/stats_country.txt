@@ -1,0 +1,52 @@
+Ireland	160
+Macedonia	24
+Austria	95
+Albania	49
+Montenegro	27
+Kosovo	15
+San Marino	6
+Bosnia and Herzegovina	27
+United Kingdom	653
+Russia	180
+Germany	306
+Malta	45
+Iceland	58
+Netherlands	86
+Ukraine	42
+Monaco	2
+Isle of Man	35
+Åland	4
+Romania	176
+Liechtenstein	1
+Bulgaria	55
+Latvia	39
+Finland	49
+Portugal	102
+Belarus	11
+Spain	264
+Norway	150
+Estonia	23
+Czechia	73
+Gibraltar	1
+Poland	50
+Slovakia	29
+Italy	3348
+Switzerland	251
+Moldova	17
+Andorra	2
+Luxembourg	13
+Hungary	70
+Guernsey	36
+Svalbard and Jan Mayen	5
+Jersey	17
+Sweden	73
+Greece	338
+Lithuania	17
+Cyprus	86
+Belgium	66
+Croatia	118
+Denmark	48
+Vatican City	18
+Slovenia	11
+Serbia	21
+France	760

@@ -1,0 +1,130 @@
+Grottaferrata	3175775	Italy	seat of a third-order administrative division
+Vicovaro	3164394	Italy	seat of a third-order administrative division
+French	11548646	France	park
+Palm	2769274	Austria	populated place
+Naples	3172394	Italy	seat of a first-order administrative division
+Tusculum	10376743	Italy	historical site
+Sunshine	10299205	Germany	hotel
+Ruota	3168792	Italy	populated place
+Colonna	3178269	Italy	seat of a third-order administrative division
+Valens	2658197	Switzerland	populated place
+Umbria	3165048	Italy	first-order administrative division
+Campagna	3181066	Italy	seat of a third-order administrative division
+Chaos	8013009	Portugal	third-order administrative division
+Maceus	6434997	France	fourth-order administrative division
+Huns	2753516	Netherlands	populated place
+Porta Latina	11856575	Italy	arch
+San Saba	6545165	Italy	section of populated place
+Marcellus	2996051	France	populated place
+Ghetto	8970148	Italy	populated place
+Ariadne	10235325	Greece	hotel
+Vicar	2509650	Spain	seat of a third-order administrative division
+Ravenna	3169561	Italy	seat of a second-order administrative division
+Domine	3274454	Croatia	populated place
+Malta	2562770	Malta	independent political entity
+Florence	3176959	Italy	seat of a first-order administrative division
+Santa Prisca	9176003	Italy	hotel
+Antonia	776658	Poland	populated place
+Nice	2990440	France	seat of a second-order administrative division
+Palazzo Orsini	10626530	Italy	palace
+North	2990129	France	second-order administrative division
+Olevano	3172074	Italy	seat of a third-order administrative division
+Germany	2921044	Germany	independent political entity
+Nettuno	3172287	Italy	seat of a third-order administrative division
+Desine	791524	Serbia	populated place
+Donatello	6470969	Italy	hotel
+Castelfranco	3179687	Italy	seat of a third-order administrative division
+Foligno	3176854	Italy	seat of a third-order administrative division
+Latin	3196743	Croatia	populated place
+Fr	3176513	Italy	second-order administrative division
+Campitelli	6545149	Italy	section of populated place
+East	3337405	Iceland	first-order administrative division
+Palatine	2962086	Ireland	populated place
+Cavo	3260206	Bosnia and Herzegovina	peak
+Astura	8974080	Italy	populated place
+Past	3255676	Croatia	locality
+Temple	2636124	United Kingdom	populated place
+Perugia	3171180	Italy	seat of a first-order administrative division
+Pieta	8299740	Malta	first-order administrative division
+Mediterranean	9962130	Greece	hotel
+Marcello	8982275	Italy	populated place
+Green	2917830	Germany	populated place
+Spagna	2510769	Spain	independent political entity
+Genzano	3176203	Italy	seat of a third-order administrative division
+Low	6953067	United Kingdom	railroad station
+Montanara	3173077	Italy	seat of a third-order administrative division
+Stefano	8963272	Italy	populated place
+Men	2996660	France	populated place
+Vatican	6691831	Vatican City	capital of a political entity
+Roman	668732	Romania	seat of a second-order administrative division
+St. Peter	2841488	Germany	populated place
+Time	3134627	Norway	second-order administrative division
+Via	3131894	Norway	populated place
+Little	3315839	Ireland	stream
+Beautiful	10119680	Italy	hotel
+Segni	3166813	Italy	seat of a third-order administrative division
+Tuscany	3165361	Italy	first-order administrative division
+Cenci	460612	Latvia	farm
+London	2643743	United Kingdom	capital of a political entity
+Till	2822188	Germany	populated place
+Romulus	6944989	Italy	hotel
+Wind	2808307	Germany	populated place
+Saba	2121548	Russia	populated place
+Drove	2934836	Germany	populated place
+Swiss	2658434	Switzerland	independent political entity
+American	9599159	Italy	hotel
+Far	9440152	Norway	farm
+Italy	3175395	Italy	independent political entity
+Valmontone	3164778	Italy	seat of a third-order administrative division
+Rhodope	734375	Greece	second-order administrative division
+Song	9418665	Norway	farm
+Anzio	3183005	Italy	seat of a third-order administrative division
+Fiumicino	3176923	Italy	seat of a third-order administrative division
+Orsini	8967495	Italy	populated place
+San	3066412	Czechia	populated place
+Villa	3105765	Spain	populated place
+Prisca	3184405	Albania	populated place
+Palo	3114506	Spain	seat of a third-order administrative division
+St. Paul	2766461	Austria	populated place
+Br	3204509	Montenegro	seat of a first-order administrative division
+God	3052241	Hungary	populated place
+Sabina	3168746	Italy	region
+Nero	8962256	Italy	populated place
+Vesta	2817526	Germany	populated place
+Porta	12118	Cyprus	locality
+Colonne	3024216	France	populated place
+Cantalupo	3180778	Italy	populated place
+Frascati	3176589	Italy	seat of a third-order administrative division
+Forum	2621991	Denmark	populated place
+St.	2974733	France	populated place
+Sabine	11305328	Lithuania	populated place
+Tivoli	3165624	Italy	seat of a third-order administrative division
+Rocca	3169180	Italy	populated place
+Au	2661689	Switzerland	populated place
+Such	486886	Russia	stream
+Goethe	10119553	Germany	hotel
+Venice	3164603	Italy	seat of a first-order administrative division
+Renaissance	9257530	Switzerland	hotel
+San Pancrazio	3167905	Italy	seat of a third-order administrative division
+Capitol	10169913	Bulgaria	hotel
+Rome	3169070	Italy	capital of a political entity
+Gardens	6466916	United Kingdom	hotel
+Palestrina	3171606	Italy	seat of a third-order administrative division
+Madama	8971085	Italy	populated place
+Christian	3319459	Austria	farm
+Pal	3039634	Andorra	populated place
+Latina	3175058	Italy	seat of a second-order administrative division
+Arezzo	3182884	Italy	seat of a second-order administrative division
+Portese	6621589	Italy	populated place
+Subiaco	3166052	Italy	seat of a third-order administrative division
+Vite	454067	Latvia	populated place
+Campi	3028945	France	populated place
+Borgia	2525525	Italy	seat of a third-order administrative division
+Amazon	11548699	France	park
+Boni	2026193	Russia	populated place
+Trastevere	3165306	Italy	section of populated place
+Ponte Mammolo	11396201	Italy	fifth-order administrative division
+Palazzo	3171644	Italy	populated place
+Toscanella	8948811	Italy	populated place
+England	2649994	United Kingdom	area
+Pinturicchio	9611604	Italy	hotel

@@ -1,0 +1,130 @@
+French
+	http://dbpedia.org/resource/France	0.6389776427098866
+Airolo
+	http://dbpedia.org/resource/Airolo	0.982138906863698
+California
+	http://dbpedia.org/resource/California	0.9998856206891593
+Havre
+	http://dbpedia.org/resource/Le_Havre	0.9998643654365984
+Naples
+	http://dbpedia.org/resource/Naples	0.9937024338771233
+Romans
+	http://dbpedia.org/resource/Ancient_Rome	0.6515340967269891
+France
+	http://dbpedia.org/resource/France	0.9978151001839691
+Lyons
+	http://dbpedia.org/resource/Lyon	0.9932253717221001
+Lammermoor
+	http://dbpedia.org/resource/Lanark_Highlands,_Ontario	0.5434549771540794
+Swedish
+	http://dbpedia.org/resource/Sweden	0.9071826815160785
+Pennsylvania
+	http://dbpedia.org/resource/Pennsylvania	0.9997079656667991
+Adige
+	http://dbpedia.org/resource/Adige	0.999999552683129
+Garda
+	http://dbpedia.org/resource/Lake_Garda	0.892120633399934
+Bavarian
+	http://dbpedia.org/resource/Bavaria	0.4558283867233069
+Bavaria
+	http://dbpedia.org/resource/Bavaria	0.9945606272514947
+Denmark
+	http://dbpedia.org/resource/Denmark	0.9978922326120659
+Lucerne
+	http://dbpedia.org/resource/Lucerne	0.9116431706450354
+Sicily
+	http://dbpedia.org/resource/Sicily	0.9952095240603257
+Germany
+	http://dbpedia.org/resource/Germany	0.9934068472333831
+Bellinzona
+	http://dbpedia.org/resource/Bellinzona	0.9409075725314477
+New York
+	http://dbpedia.org/resource/New_York	0.6949936759617363
+Europe
+	http://dbpedia.org/resource/Europe	0.9996972549140197
+Graz
+	http://dbpedia.org/resource/Graz	0.9981405591910194
+Streatham
+	http://dbpedia.org/resource/Streatham	0.9925361943560524
+Brescia
+	http://dbpedia.org/resource/Brescia	0.8754302661264086
+Zurich
+	http://dbpedia.org/resource/Zürich	0.4826386449513037
+Milan
+	http://dbpedia.org/resource/Milan	0.9435502677804977
+Lugano
+	http://dbpedia.org/resource/Lugano	0.9779703818265624
+Switzerland
+	http://dbpedia.org/resource/Switzerland	0.998878509630826
+Chiasso
+	http://dbpedia.org/resource/Chiasso	0.8092571678521271
+Algiers
+	http://dbpedia.org/resource/Algiers	0.999283316120504
+Italian
+	http://dbpedia.org/resource/Italy	0.7972496325633278
+Roman
+	http://dbpedia.org/resource/Ancient_Rome	0.5479578211605821
+Göschenen
+	http://dbpedia.org/resource/Göschenen	0.8344215498016327
+Cornwall
+	http://dbpedia.org/resource/Cornwall	0.9991730986577946
+Greece
+	http://dbpedia.org/resource/Greece	0.9972778470970728
+London
+	http://dbpedia.org/resource/London	0.999457497603158
+Austrian
+	http://dbpedia.org/resource/Austrian_Empire	0.3129693627584713
+Munich
+	http://dbpedia.org/resource/Munich	0.9982223032285663
+Swiss
+	http://dbpedia.org/resource/Switzerland	0.9940310476982672
+Basel
+	http://dbpedia.org/resource/Basel	0.9723950693834826
+American
+	http://dbpedia.org/resource/United_States	0.9861331475696835
+Venetian
+	http://dbpedia.org/resource/Republic_of_Venice	0.5966056577130066
+Italy
+	http://dbpedia.org/resource/Italy	0.9931708504744164
+America
+	http://dbpedia.org/resource/United_States	0.9604591517001898
+Tripoli
+	http://dbpedia.org/resource/Tripoli	0.9977300059362646
+Bern
+	http://dbpedia.org/resource/Bern	0.8679710640704195
+Geneva
+	http://dbpedia.org/resource/Geneva	0.9982575658584226
+Neapolitan
+	http://dbpedia.org/resource/Naples	0.7281487727861209
+Viennese
+	http://dbpedia.org/resource/Vienna	0.9882550342839982
+Assisi
+	http://dbpedia.org/resource/Assisi	0.9997402194576478
+Verona
+	http://dbpedia.org/resource/Verona	0.9666464087157607
+European
+	http://dbpedia.org/resource/European_Union	0.38392842064442373
+Ireland
+	http://dbpedia.org/resource/Ireland	0.761533757607475
+Constance
+	http://dbpedia.org/resource/Konstanz	0.952794676326339
+Andermatt
+	http://dbpedia.org/resource/Andermatt	0.9421891372750077
+Venice
+	http://dbpedia.org/resource/Venice	0.9865988624093786
+Salò
+	http://dbpedia.org/resource/Italian_Social_Republic	0.9878568038273808
+German
+	http://dbpedia.org/resource/Germany	0.582281717182531
+Rome
+	http://dbpedia.org/resource/Rome	0.9888104893137306
+Schaffhausen
+	http://dbpedia.org/resource/Schaffhausen	0.8702886022553817
+Meran
+	http://dbpedia.org/resource/Merano	0.9999999056091982
+Norwegian
+	http://dbpedia.org/resource/Norway	0.9219952627298997
+Flemish
+	http://dbpedia.org/resource/Flanders	0.6143567818259467
+Rhine
+	http://dbpedia.org/resource/Rhine	0.9998755389383932

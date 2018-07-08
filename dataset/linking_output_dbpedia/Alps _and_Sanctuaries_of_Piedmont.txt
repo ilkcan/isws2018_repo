@@ -1,0 +1,270 @@
+Savoy
+	http://dbpedia.org/resource/Savoy	0.8760638809210826
+Airolo
+	http://dbpedia.org/resource/Airolo	0.982138906863698
+Casina
+	http://dbpedia.org/resource/Casina	0.7865907369371661
+Cavagnago
+	http://dbpedia.org/resource/Cavagnago	0.9999998739452929
+Romans
+	http://dbpedia.org/resource/Ancient_Rome	0.6515340967269891
+France
+	http://dbpedia.org/resource/France	0.9978151001839691
+Chiavenna
+	http://dbpedia.org/resource/Chiavenna	0.9999997855228723
+Snowdon
+	http://dbpedia.org/resource/Snowdon	0.9925448875230942
+Besazio
+	http://dbpedia.org/resource/Besazio	0.9999999255530333
+Lucerne
+	http://dbpedia.org/resource/Lucerne	0.9116431706450354
+Pinerolo
+	http://dbpedia.org/resource/Pinerolo	0.9985959791987735
+Switzerland
+	http://dbpedia.org/resource/Switzerland	0.998878509630826
+Arona
+	http://dbpedia.org/resource/Arona,_Piedmont	0.835196263130429
+Bedretto
+	http://dbpedia.org/resource/Bedretto	0.9999999408980162
+South Downs
+	http://dbpedia.org/resource/South_Downs	0.9932766167986455
+Sobrio
+	http://dbpedia.org/resource/Sobrio	0.9999998646419307
+Chiusa
+	http://dbpedia.org/resource/Chiusa_di_San_Michele	0.9998817267281623
+Cambridge
+	http://dbpedia.org/resource/Cambridge	0.6195024401880806
+Meride
+	http://dbpedia.org/resource/Meride	0.9999997046181522
+Murray
+	http://dbpedia.org/resource/Murray_River	0.743077199142314
+Ceres
+	http://dbpedia.org/resource/Ceres_(dwarf_planet)	0.5377880054002129
+Angera
+	http://dbpedia.org/resource/Angera	0.9999998781099609
+Rome
+	http://dbpedia.org/resource/Rome	0.9888104893137306
+Verdabbio
+	http://dbpedia.org/resource/Verdabbio	0.9999999847471451
+Biella
+	http://dbpedia.org/resource/Biella	0.9757336811769556
+New Zealand
+	http://dbpedia.org/resource/New_Zealand	0.991144076281129
+Cannon Street
+	http://dbpedia.org/resource/Cannon_Street_station	0.610809275230427
+Biasca
+	http://dbpedia.org/resource/Biasca	0.9657438239569125
+Labrador
+	http://dbpedia.org/resource/Labrador	0.9661062724220152
+Laurenzana
+	http://dbpedia.org/resource/Laurenzana	0.9999999610776741
+Calonico
+	http://dbpedia.org/resource/Faido	0.9882894253437013
+Grono
+	http://dbpedia.org/resource/Grono,_Switzerland	0.9446887868788325
+Stratford
+	http://dbpedia.org/resource/Stratford_station	0.7615166209360342
+Calanca
+	http://dbpedia.org/resource/Calanca	0.9552758245540075
+Florence
+	http://dbpedia.org/resource/Florence	0.9993697125161629
+Anzonico
+	http://dbpedia.org/resource/Anzonico	0.9999999061156233
+Oxford Street
+	http://dbpedia.org/resource/Oxford	0.8035858971536205
+Graglia
+	http://dbpedia.org/resource/Graglia	0.9999999295543371
+Canterbury
+	http://dbpedia.org/resource/Canterbury	0.7514473709360436
+Italian
+	http://dbpedia.org/resource/Italy	0.7972496325633278
+Cremella
+	http://dbpedia.org/resource/Cremella	0.9999999755350405
+Stura
+	http://dbpedia.org/resource/Stura_di_Demonte	0.47176083098425126
+Avigliana
+	http://dbpedia.org/resource/Avigliana	0.9999999336822989
+Swiss
+	http://dbpedia.org/resource/Switzerland	0.9940310476982672
+American
+	http://dbpedia.org/resource/United_States	0.9861331475696835
+Italy
+	http://dbpedia.org/resource/Italy	0.9931708504744164
+Gribbio
+	http://dbpedia.org/resource/Gribbio	0.9999998734887372
+Ligornetto
+	http://dbpedia.org/resource/Ligornetto	0.9999998801343538
+British Museum
+	http://dbpedia.org/resource/British_Museum	0.9998578711291989
+Darlaston
+	http://dbpedia.org/resource/Darlaston	0.962174475813192
+Quinto
+	http://dbpedia.org/resource/Quinto_Vercellese	0.9966516450040953
+Ambri
+	http://dbpedia.org/resource/Ambrì	0.7474244469508555
+Velate
+	http://dbpedia.org/resource/Varese	0.9999984174522093
+Alexandria
+	http://dbpedia.org/resource/Alexandria	0.9991250531228991
+Locarno
+	http://dbpedia.org/resource/Locarno	0.8601140998730391
+Grecian
+	http://dbpedia.org/resource/Greece	0.34108839944511843
+Bignasco
+	http://dbpedia.org/resource/Bignasco	0.9999999237866455
+Soazza
+	http://dbpedia.org/resource/Soazza	0.9999999840827237
+Ealing
+	http://dbpedia.org/resource/Ealing	0.9733780275854049
+Lombardy
+	http://dbpedia.org/resource/Lombardy	0.999824168048006
+Piotta
+	http://dbpedia.org/resource/Piotta,_Switzerland	0.6467593863037174
+French
+	http://dbpedia.org/resource/France	0.6389776427098866
+Rimella
+	http://dbpedia.org/resource/Rimella	0.9999999760963053
+Bologna
+	http://dbpedia.org/resource/Bologna	0.9698938017494135
+Hever
+	http://dbpedia.org/resource/Hever_Castle	0.9996117483817984
+Ravenna
+	http://dbpedia.org/resource/Ravenna	0.98877959535559
+Chinese
+	http://dbpedia.org/resource/China	0.600323214210549
+North
+	http://dbpedia.org/resource/North_America	0.36786899046491
+Moesa
+	http://dbpedia.org/resource/Moesa_District	0.7748659152688766
+Germany
+	http://dbpedia.org/resource/Germany	0.9934068472333831
+Lanzo
+	http://dbpedia.org/resource/Lanzo_Torinese	0.9553414257893802
+Europe
+	http://dbpedia.org/resource/Europe	0.9996972549140197
+Bussoleno
+	http://dbpedia.org/resource/Bussoleno	0.9999999152794601
+Kent
+	http://dbpedia.org/resource/Kent	0.9273393294529977
+Lugano
+	http://dbpedia.org/resource/Lugano	0.9779703818265624
+Boulogne
+	http://dbpedia.org/resource/Boulogne-sur-Mer	0.9620797580604189
+Giornico
+	http://dbpedia.org/resource/Giornico	0.9999997813921898
+Canada
+	http://dbpedia.org/resource/Canada	0.9997000531664367
+Leeds
+	http://dbpedia.org/resource/Leeds	0.9575016693231868
+Colma
+	http://dbpedia.org/resource/Colma_station	0.9976627697672359
+Dalpe
+	http://dbpedia.org/resource/Dalpe	0.9999998781044009
+Chironico
+	http://dbpedia.org/resource/Chironico	0.9999999265536124
+Civiasco
+	http://dbpedia.org/resource/Civiasco	0.9999999713055634
+Roveredo
+	http://dbpedia.org/resource/Roveredo	0.9999993759173222
+Venetian
+	http://dbpedia.org/resource/Republic_of_Venice	0.5966056577130066
+Genoa
+	http://dbpedia.org/resource/Genoa	0.9172931489200672
+Vesuvius
+	http://dbpedia.org/resource/Mount_Vesuvius	0.9999997886874442
+Great
+	http://dbpedia.org/resource/Great_St_Bernard_Pass	0.24967447398509357
+British
+	http://dbpedia.org/resource/United_Kingdom	0.9262821976317588
+Molare
+	http://dbpedia.org/resource/Molare	0.9999633583564609
+Malvaglia
+	http://dbpedia.org/resource/Malvaglia	0.9999999152189538
+Holborn
+	http://dbpedia.org/resource/Holborn	0.9693551690622478
+Mesocco
+	http://dbpedia.org/resource/Mesocco	0.9999998975248462
+Berlin
+	http://dbpedia.org/resource/Berlin	0.9985725386625698
+German
+	http://dbpedia.org/resource/Germany	0.582281717182531
+Stokesay
+	http://dbpedia.org/resource/Stokesay	0.9999998828029815
+Fobello
+	http://dbpedia.org/resource/Fobello	0.9999999523000203
+Novara
+	http://dbpedia.org/resource/Novara	0.7500155747953828
+Mendrisio
+	http://dbpedia.org/resource/Mendrisio	0.64023079657844
+Fleet Street
+	http://dbpedia.org/resource/Fleet_Street	0.9995912978417608
+Surrey
+	http://dbpedia.org/resource/Surrey	0.8335857467903346
+Campertogno
+	http://dbpedia.org/resource/Campertogno	0.9999999595527002
+Rossura
+	http://dbpedia.org/resource/Faido	0.9882894253437013
+Auvergne
+	http://dbpedia.org/resource/Auvergne	0.7143506372977773
+Goschenen
+	http://dbpedia.org/resource/Göschenen	0.9855737465347438
+Mairengo
+	http://dbpedia.org/resource/Mairengo	0.9999998891538721
+Piedmont
+	http://dbpedia.org/resource/Piedmont	0.9991244683316355
+Bellinzona
+	http://dbpedia.org/resource/Bellinzona	0.9409075725314477
+Sagno
+	http://dbpedia.org/resource/Sagno	0.9999998843049371
+Faido
+	http://dbpedia.org/resource/Faido	0.9991854620172508
+Danish
+	http://dbpedia.org/resource/Denmark	0.904914632745315
+Holland
+	http://dbpedia.org/resource/Holland	0.9285121203244706
+Milan
+	http://dbpedia.org/resource/Milan	0.9435502677804977
+Bengal
+	http://dbpedia.org/resource/Bengal	0.9685518088856911
+Roman
+	http://dbpedia.org/resource/Ancient_Rome	0.5479578211605821
+Oxford
+	http://dbpedia.org/resource/Oxford	0.6878811873847683
+South Kensington
+	http://dbpedia.org/resource/South_Kensington	0.9584362628764264
+London
+	http://dbpedia.org/resource/London	0.999457497603158
+Turin
+	http://dbpedia.org/resource/Turin	0.9995254828005223
+America
+	http://dbpedia.org/resource/United_States	0.9604591517001898
+Dijon
+	http://dbpedia.org/resource/Dijon	0.9842417234975235
+Prato
+	http://dbpedia.org/resource/Prato	0.7988732979312874
+Groscavallo
+	http://dbpedia.org/resource/Groscavallo	0.9999999625774307
+Egypt
+	http://dbpedia.org/resource/Egypt	0.9939984287257668
+Netro
+	http://dbpedia.org/resource/Netro,_Piedmont	0.8007456022311021
+European
+	http://dbpedia.org/resource/European_Union	0.38392842064442373
+Paris
+	http://dbpedia.org/resource/Paris	0.9998991535972286
+Reuss
+	http://dbpedia.org/resource/Imperial_County_of_Reuss	0.8108993596246004
+Loughborough
+	http://dbpedia.org/resource/Loughborough	0.9827901629449157
+Leventina
+	http://dbpedia.org/resource/Leventina_(district)	0.9999997751633463
+Potenza
+	http://dbpedia.org/resource/Potenza	0.9224227011070424
+Israel
+	http://dbpedia.org/resource/Israel	0.9998008910529677
+Varese
+	http://dbpedia.org/resource/Varese	0.8561536095065762
+Orta
+	http://dbpedia.org/resource/Orta	0.7204318465174324
+Covent Garden
+	http://dbpedia.org/resource/Covent_Garden	0.8361412507961616
