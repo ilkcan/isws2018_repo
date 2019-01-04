@@ -1,0 +1,358 @@
+Massa	http://dbpedia.org/resource/Massa	0.8405193883324339
+Terme di Galuccio	http://dbpedia.org/resource/Terme	0.9990937031015116
+Manchester	http://dbpedia.org/resource/Manchester	0.9991647462238021
+Surrey	http://dbpedia.org/resource/Surrey	0.8335857467903346
+Mars	http://dbpedia.org/resource/Mars	0.9998401986735254
+Mongibello	http://dbpedia.org/resource/Mount_Etna	0.998420076697195
+Siena	http://dbpedia.org/resource/Siena	0.9050154126595743
+Venetia	http://dbpedia.org/resource/Veneto	0.9794563333886454
+Carrara	http://dbpedia.org/resource/Carrara	0.9962500223792858
+La Barra	http://dbpedia.org/resource/La_Barra	0.9999999999554845
+Avignon	http://dbpedia.org/resource/Avignon	0.9953294812157588
+AREZZO	http://dbpedia.org/resource/Arezzo	0.9198586019400611
+Eastern Alps	http://dbpedia.org/resource/Eastern_Alps	0.9999999999356532
+Rocca	http://dbpedia.org/resource/Arcevia	0.9879422349977315
+Burano	http://dbpedia.org/resource/Burano	0.9999996217968428
+Arezzo	http://dbpedia.org/resource/Arezzo	0.9198586019400611
+Germany	http://dbpedia.org/resource/Germany	0.9934068472333831
+Ospedaletti	http://dbpedia.org/resource/Ospedaletti	0.9910253408096258
+Monte Carlo	http://dbpedia.org/resource/Monte_Carlo	0.9581116575871572
+Stazione	http://dbpedia.org/resource/Sassari_railway_station	0.6677028691500406
+Elba	http://dbpedia.org/resource/Elba	0.9999986299066179
+Marettimo	http://dbpedia.org/resource/Marettimo	0.9999996864841018
+Lombardy	http://dbpedia.org/resource/Lombardy	0.999824168048006
+Toronto	http://dbpedia.org/resource/Toronto	0.9996010628402195
+Cerveteri	http://dbpedia.org/resource/Cerveteri	0.9999998904409846
+Genoa	http://dbpedia.org/resource/Genoa	0.9172931489200672
+Simplon	http://dbpedia.org/resource/Simplon_Pass	0.9159926633375265
+Danube	http://dbpedia.org/resource/Danube	0.9999809848316145
+Tarentum	http://dbpedia.org/resource/Taranto	0.9887635861076084
+CORTONA Cortona	http://dbpedia.org/resource/Cortona	0.978006956033217
+Lago di Molveno	http://dbpedia.org/resource/Molveno	0.9999998422044722
+Borgo degli Albizzi	http://dbpedia.org/resource/Borgo_metro_station	0.4423991686379488
+Aragón	http://dbpedia.org/resource/Aragon	0.9965532652425316
+Trentino	http://dbpedia.org/resource/Trentino	0.9966751807065792
+Thames	http://dbpedia.org/resource/River_Thames	0.9974571473150767
+North Sea	http://dbpedia.org/resource/North_Sea	0.9998275191318395
+Assisi	http://dbpedia.org/resource/Assisi	0.9997402194576478
+Vatican	http://dbpedia.org/resource/Holy_See	0.6520481345050424
+Viareggio	http://dbpedia.org/resource/Viareggio	0.9603769017373026
+Ferrara	http://dbpedia.org/resource/Ferrara	0.999184264122328
+Trieste	http://dbpedia.org/resource/Trieste	0.9954803739205678
+Arno	http://dbpedia.org/resource/Arno	0.994339702275904
+Great Port	http://dbpedia.org/resource/Great_St_Bernard_Pass	0.27215517107795373
+Brooklyn	http://dbpedia.org/resource/Brooklyn	0.9987417591458505
+Mount Etna	http://dbpedia.org/resource/Mount_Etna	0.9999999979713081
+Temple of Ceres	http://dbpedia.org/resource/Ceres_(dwarf_planet)	0.5377880054002148
+Salerno	http://dbpedia.org/resource/Salerno	0.9847085780105939
+Eternal City	http://dbpedia.org/resource/Rome	0.9999999998943991
+Grindelwald	http://dbpedia.org/resource/Grindelwald	0.9998790046254706
+Flanders	http://dbpedia.org/resource/Flanders	0.9793999164384157
+Aiguebelle	http://dbpedia.org/resource/Aiguebelle	0.9999999313507489
+Damascus	http://dbpedia.org/resource/Damascus	0.9998609602691191
+Southern Tyrol	http://dbpedia.org/resource/County_of_Tyrol	0.9013615308362387
+Pinzolo	http://dbpedia.org/resource/Pinzolo	0.9999999099002294
+Alps	http://dbpedia.org/resource/Alps	0.9978437158461069
+Milan	http://dbpedia.org/resource/Milan	0.9435502677804977
+Adernò	http://dbpedia.org/resource/Adrano	0.9999994596201279
+Bellegarde	http://dbpedia.org/resource/Bellegarde-sur-Valserine	0.8235463408167131
+Ragusa	http://dbpedia.org/resource/Dubrovnik	0.5111759139907853
+Westminster Abbey	http://dbpedia.org/resource/Westminster_Abbey	0.9999459236164305
+PINZOLO	http://dbpedia.org/resource/Pinzolo	0.9999999099002294
+United States	http://dbpedia.org/resource/United_States	0.9998689051771597
+Kingdom of the Two Sicilies	http://dbpedia.org/resource/Kingdom_of_the_Two_Sicilies	0.9921585697663163
+Palatine	http://dbpedia.org/resource/Electoral_Palatinate	0.4067148118800967
+Apennines	http://dbpedia.org/resource/Apennine_Mountains	0.9999639626880902
+Ancona	http://dbpedia.org/resource/Ancona	0.9621432805558834
+Brittany	http://dbpedia.org/resource/Brittany	0.9939742093342244
+Botzen	http://dbpedia.org/resource/Bolzano	0.9999999445198193
+Geneva	http://dbpedia.org/resource/Geneva	0.9982575658584226
+East	http://dbpedia.org/resource/East_Germany	0.5584557404302157
+Straits of Messina	http://dbpedia.org/resource/Messina	0.9932972327211257
+Grotto delle Palumbe	http://dbpedia.org/resource/Delle	0.9999139127050986
+Palazzo degli Uffizi	http://dbpedia.org/resource/Uffizi	1.0
+Chambéry	http://dbpedia.org/resource/Chambéry	0.9986209165372278
+Ischia	http://dbpedia.org/resource/Ischia	0.98997166390948
+Paris	http://dbpedia.org/resource/Paris	0.9998991535972286
+Milvian bridge	http://dbpedia.org/resource/Ponte_Milvio	0.9999999999999964
+church of Santa Maria in Cosmedin	http://dbpedia.org/resource/Santa_Maria_Island	0.8348191065721507
+Margate	http://dbpedia.org/resource/Margate	0.8377803080847327
+Florence	http://dbpedia.org/resource/Florence	0.9993697125161629
+PONTE VECCHIO	http://dbpedia.org/resource/Ponte_Vecchio	0.9999999998052154
+Pistoja	http://dbpedia.org/resource/Pistoia	0.9999997765696024
+CATANIA	http://dbpedia.org/resource/Catania	0.8599651935139948
+Mount Vesuvius	http://dbpedia.org/resource/Mount_Vesuvius	0.9999999999969909
+Ponte Vecchio	http://dbpedia.org/resource/Ponte_Vecchio	0.9999999998052154
+Austria	http://dbpedia.org/resource/Austria	0.9958070138622266
+Ducal Palace	http://dbpedia.org/resource/Ducal_Palace_of_Modena	0.6256902397044851
+Old Castile	http://dbpedia.org/resource/Crown_of_Castile	0.4991875455031066
+Dauphiné	http://dbpedia.org/resource/Dauphiné	0.7423563576744443
+Agger of Servius	http://dbpedia.org/resource/Agger_(river)	0.8974755401818878
+valley of the Adige	http://dbpedia.org/resource/Adige	0.9999999441094489
+Alexandria	http://dbpedia.org/resource/Alexandria	0.9991250531228991
+SORRENTO	http://dbpedia.org/resource/Sorrento	0.9435456443079476
+Ulm	http://dbpedia.org/resource/Ulm	0.9962964812740454
+Greece	http://dbpedia.org/resource/Greece	0.9972778470970728
+Venetian Alps	http://dbpedia.org/resource/Alps	0.9990190106743875
+Trafalgar Square	http://dbpedia.org/resource/Trafalgar_Square	0.9976496114762222
+British Museum	http://dbpedia.org/resource/British_Museum	0.9998578711291989
+Ustica	http://dbpedia.org/resource/Ustica	0.9999998945752344
+Battipaglia	http://dbpedia.org/resource/Battipaglia	0.9999999210465371
+Neptune	http://dbpedia.org/resource/Neptune	0.9986050150553251
+Mount Subasio	http://dbpedia.org/resource/Monte_Subasio	0.9999999999989733
+Loire	http://dbpedia.org/resource/Loire	0.9978365221773229
+Cologne	http://dbpedia.org/resource/Cologne	0.9982597316785589
+United Italy	http://dbpedia.org/resource/Italy	0.9935798222694484
+Frosinone	http://dbpedia.org/resource/Frosinone	0.5221458379222166
+Hôtel de Londres	http://dbpedia.org/resource/London	0.9883575543082663
+Otranto	http://dbpedia.org/resource/Otranto	0.9940814950788951
+Palestine	http://dbpedia.org/resource/Mandatory_Palestine	0.5308274876799026
+Corinth	http://dbpedia.org/resource/Corinth	0.949931197584491
+Capua	http://dbpedia.org/resource/Capua	0.9857731919536875
+Perugia	http://dbpedia.org/resource/Perugia	0.889063891149214
+Portici	http://dbpedia.org/resource/Portici	0.9976266237279285
+VOLTERRA Volterra	http://dbpedia.org/resource/Volterra	0.9937876568141235
+Capo Verde	http://dbpedia.org/resource/Cape_Verde	0.9999999999996767
+Blue Grotto	http://dbpedia.org/resource/Brooklyn_Bridge	0.7343132812533344
+Mortella	http://dbpedia.org/resource/Tour_de_Mortella	0.9999998435655628
+Italy	http://dbpedia.org/resource/Italy	0.9931708504744164
+Mount San Costanzo	http://dbpedia.org/resource/San_Costanzo	0.9605456340692743
+Le Balze	http://dbpedia.org/resource/Lê_dynasty	0.7180952304407966
+Montecatini	http://dbpedia.org/resource/Montecatini_Terme	0.9937155610727806
+Val Selva	http://dbpedia.org/resource/Selva	0.9999822758248935
+Algiers	http://dbpedia.org/resource/Algiers	0.999283316120504
+Turin	http://dbpedia.org/resource/Turin	0.9995254828005223
+Culoz	http://dbpedia.org/resource/Culoz	0.9999999105678161
+Torcello	http://dbpedia.org/resource/Torcello	0.9897706272915663
+Arretium	http://dbpedia.org/resource/Arezzo	0.9999997308728339
+America	http://dbpedia.org/resource/United_States	0.9604591517001898
+Nismes	http://dbpedia.org/resource/Viroinval	0.9446887868788325
+Piazza del Duomo	http://dbpedia.org/resource/Piazza_dei_Miracoli	0.9999988303642003
+Strada San Nicola	http://dbpedia.org/resource/Basilica_di_San_Nicola	0.4788044066129384
+S. Trinità	http://dbpedia.org/resource/Trinità	0.9502211960458571
+Europe	http://dbpedia.org/resource/Europe	0.9996972549140197
+Athens	http://dbpedia.org/resource/Athens	0.9975419292153778
+Saline de Volterra	http://dbpedia.org/resource/Saline_County,_Arkansas	0.25246373117384757
+Florence Cathedral	http://dbpedia.org/resource/Florence_Cathedral	0.9999999999887415
+Weinsberg	http://dbpedia.org/resource/Weinsberg	0.9999998345039737
+Bay of Gaeta	http://dbpedia.org/resource/Gaeta	0.9893150763168308
+Alp	http://dbpedia.org/resource/Alps	0.993143838036713
+San Michele	http://dbpedia.org/resource/Isola_di_San_Michele	0.9877572217074857
+Chiasso	http://dbpedia.org/resource/Chiasso	0.8092571678521271
+Santa Maria Novella	http://dbpedia.org/resource/Santa_Maria_Novella	0.9733403293416965
+Menton	http://dbpedia.org/resource/Menton	0.9999998241187326
+Carcassonne	http://dbpedia.org/resource/Carcassonne	0.9941159616528132
+Asia	http://dbpedia.org/resource/Asia	0.9995133462634389
+Leghorn	http://dbpedia.org/resource/Livorno	0.9368741858213472
+Porto Maurizio	http://dbpedia.org/resource/Imperia	0.9999999999990941
+Piazza Duomo	http://dbpedia.org/resource/Milan_Cathedral	0.9999985464567634
+Naples	http://dbpedia.org/resource/Naples	0.9937024338771233
+London Bridge	http://dbpedia.org/resource/London_Bridge	0.6779862962955149
+Calabria	http://dbpedia.org/resource/Calabria	0.9997078649140196
+Paduli	http://dbpedia.org/resource/Paduli	0.99999989124307
+Monaco	http://dbpedia.org/resource/Monaco	0.9454898492273393
+North German	http://dbpedia.org/resource/North_German_Confederation	0.40768691547866354
+Spain	http://dbpedia.org/resource/Spain	0.996149017874615
+Puteoli	http://dbpedia.org/resource/Pozzuoli	0.9999999001160603
+Venetian Republic	http://dbpedia.org/resource/Republic_of_Venice	0.9975144753324636
+Zermatt	http://dbpedia.org/resource/Zermatt	0.9968535538560275
+Bournemouth	http://dbpedia.org/resource/Bournemouth	0.6583874186447312
+Frascati	http://dbpedia.org/resource/Frascati	0.9910867511016968
+Fontanella	http://dbpedia.org/resource/Fontanella,_Lombardy	0.4854170230283817
+Catania	http://dbpedia.org/resource/Catania	0.8599651935139948
+Philadelphia	http://dbpedia.org/resource/Philadelphia	0.9991915878679399
+Porta a Selci	http://dbpedia.org/resource/Selci	0.9999998487823846
+Tyrrhenian	http://dbpedia.org/resource/Tyrrhenian_Sea	0.989246666306998
+Switzerland	http://dbpedia.org/resource/Switzerland	0.998878509630826
+Ladywell	http://dbpedia.org/resource/Ladywell	0.5726330755498986
+Temple of Venus	http://dbpedia.org/resource/Venus	0.9889204680250843
+Pisa	http://dbpedia.org/resource/Pisa	0.9714237866232527
+San Costanzo hill	http://dbpedia.org/resource/San_Costanzo	0.9605456340692708
+Grotta Azzurra	http://dbpedia.org/resource/Blue_Grotto_(Capri)	0.9459459379445314
+Algeria	http://dbpedia.org/resource/Algeria	0.9963748250281098
+San Miniato	http://dbpedia.org/resource/San_Miniato	0.9680200030650823
+Val di Brenta	http://dbpedia.org/resource/Brenta_group	0.9901536245490228
+Via del Orte	http://dbpedia.org/resource/Orte	0.6677860202781931
+Amalfi	http://dbpedia.org/resource/Amalfi	0.9578682186921637
+Lung' Arno	http://dbpedia.org/resource/Arno	0.9943397022759074
+Croton	http://dbpedia.org/resource/Crotone	0.9817197025356168
+Castle of Fénis	http://dbpedia.org/resource/Fénis	0.9668167061405405
+Cortona	http://dbpedia.org/resource/Cortona	0.978006956033217
+Bordighera	http://dbpedia.org/resource/Bordighera	0.9999999124904984
+Auronzo	http://dbpedia.org/resource/Auronzo_di_Cadore	0.9999999241281181
+Royal Palace	http://dbpedia.org/resource/Stockholm_Palace	0.5097943841712611
+Pola	http://dbpedia.org/resource/Pula	0.9982459994268972
+Barberino	http://dbpedia.org/resource/Barberino_Val_d'Elsa	0.9999996289968656
+Vesuvius	http://dbpedia.org/resource/Mount_Vesuvius	0.9999997886874442
+Taormina	http://dbpedia.org/resource/Taormina	0.9981280514113282
+Riviera of Naples	http://dbpedia.org/resource/Naples	0.9980705016700476
+Borgo the Albizzi	http://dbpedia.org/resource/Borgo_metro_station	0.4423991686379488
+Egypt	http://dbpedia.org/resource/Egypt	0.9939984287257668
+Lombard Alps	http://dbpedia.org/resource/Alps	0.9996472862334826
+Engadine	http://dbpedia.org/resource/Engadine_railway_station	0.9983272846355256
+Fontana de Nettuno	http://dbpedia.org/resource/Nettuno	0.9985529588383227
+Borgo S. Lorenzo	http://dbpedia.org/resource/Borgo_metro_station	0.4425272990644769
+ASSISI	http://dbpedia.org/resource/Assisi	0.9997402194576478
+Gibraltar	http://dbpedia.org/resource/Gibraltar	0.9993765916751728
+Capitoline Museum	http://dbpedia.org/resource/Capitoline_Museums	0.9818779699005076
+Acicastello	http://dbpedia.org/resource/Aci_Castello	0.9999999340196113
+Pressburg	http://dbpedia.org/resource/Bratislava	0.999728022802936
+Marseilles	http://dbpedia.org/resource/Marseille	0.9989858487286843
+Fossalto	http://dbpedia.org/resource/Fossalto	0.9999999404757585
+Stromboli	http://dbpedia.org/resource/Stromboli	0.9587982227814361
+Liguria	http://dbpedia.org/resource/Liguria	0.9989709934538546
+Palermo	http://dbpedia.org/resource/Palermo	0.9994458638187652
+Procida	http://dbpedia.org/resource/Procida	0.9999997953045391
+Naples Bay	http://dbpedia.org/resource/Naples	0.9949970549910085
+Verona	http://dbpedia.org/resource/Verona	0.9666464087157607
+Adamello	http://dbpedia.org/resource/Mount_Adamello	0.9493835428791694
+Naples Museum	http://dbpedia.org/resource/Naples_National_Archaeological_Museum	0.9999998410521072
+Ionian Sea	http://dbpedia.org/resource/Ionian_Sea	0.9999999999995453
+Acireale	http://dbpedia.org/resource/Acireale	0.9030048350267013
+Taggia	http://dbpedia.org/resource/Taggia	0.9999999463855197
+pons Cestius	http://dbpedia.org/resource/Pons_Cestius	1.0
+Malta	http://dbpedia.org/resource/Malta	0.9991064331448091
+Jerusalem	http://dbpedia.org/resource/Jerusalem	0.9995913403539933
+Villafranca	http://dbpedia.org/resource/Villafranca	0.6138622108460945
+Orvieto	http://dbpedia.org/resource/Orvieto	0.9977765424675137
+Cotrone	http://dbpedia.org/resource/Crotone	0.9999999098232953
+Drepanum	http://dbpedia.org/resource/Drepana	0.9999987791169637
+Torrazzo dell' Aringo	http://dbpedia.org/resource/Aringo	0.9999999829835319
+Calatafimi	http://dbpedia.org/resource/Calatafimi-Segesta	0.9535129797530459
+Campagna	http://dbpedia.org/resource/Campagna	0.9583778144995314
+Mentone	http://dbpedia.org/resource/Menton	0.8586794143811454
+Madeira	http://dbpedia.org/resource/Madeira	0.9969574871505172
+Locarno	http://dbpedia.org/resource/Locarno	0.8601140998730391
+Viterbo	http://dbpedia.org/resource/Viterbo	0.9956010809780714
+Atrani	http://dbpedia.org/resource/Atrani	0.9999999135184476
+FLORENCE Florence	http://dbpedia.org/resource/Florence	0.9993697125161629
+Nice	http://dbpedia.org/resource/Nice	0.9810279337106225
+Albenga	http://dbpedia.org/resource/Albenga	0.9806844496777302
+Capri	http://dbpedia.org/resource/Capri	0.9860809845899537
+Adriatic	http://dbpedia.org/resource/Adriatic_Sea	0.9997176125209052
+Honolulu	http://dbpedia.org/resource/Honolulu	0.9997179198632586
+Piraeus	http://dbpedia.org/resource/Piraeus	0.9991444307723576
+Marsala	http://dbpedia.org/resource/Marsala	0.9083888705320325
+Malvagna	http://dbpedia.org/resource/Malvagna	0.9999999356520476
+Brenta	http://dbpedia.org/resource/Brenta_group	0.4072017796092822
+Torre Annunziata	http://dbpedia.org/resource/Torre_Annunziata	0.9999999999999787
+Aci San Antonio	http://dbpedia.org/resource/Aci_Castello	0.9999999376442708
+Mendrisio	http://dbpedia.org/resource/Mendrisio	0.64023079657844
+Val d'Aoste	http://dbpedia.org/resource/Aosta_Valley	0.9999999999999716
+Rimini	http://dbpedia.org/resource/Rimini	0.9603962689622223
+Bavaria	http://dbpedia.org/resource/Bavaria	0.9945606272514947
+Norway	http://dbpedia.org/resource/Norway	0.998870969038311
+Tonale	http://dbpedia.org/resource/Tonale_Pass	0.9999770812083477
+Savoie	http://dbpedia.org/resource/Savoie	0.9993764152293436
+Bergamo	http://dbpedia.org/resource/Bergamo	0.9913949984985071
+Volterra	http://dbpedia.org/resource/Volterra	0.9937876568141235
+Rome	http://dbpedia.org/resource/Rome	0.9888104893137306
+Alpine Switzerland	http://dbpedia.org/resource/Switzerland	0.9997290243392797
+Sacro Monte	http://dbpedia.org/resource/Sacri_Monti_of_Piedmont_and_Lombardy	0.9383341963381785
+Sardinia	http://dbpedia.org/resource/Sardinia	0.9932015604910756
+Lorraine	http://dbpedia.org/resource/Lorraine	0.6379521944826222
+Apulia	http://dbpedia.org/resource/Apulia	0.9996787522722866
+Sorrento	http://dbpedia.org/resource/Sorrento	0.9435456443079476
+Termini	http://dbpedia.org/resource/Roma_Termini_railway_station	0.7944843522643198
+Modane	http://dbpedia.org/resource/Modane	0.9999997365195653
+Port Said	http://dbpedia.org/resource/Port_Said	0.9999979021229223
+Parthenon	http://dbpedia.org/resource/Parthenon	0.9992592751943425
+Roman Empire	http://dbpedia.org/resource/Roman_Empire	0.8998085161470456
+Maletto	http://dbpedia.org/resource/Maletto	0.9999998027584257
+Levanzo	http://dbpedia.org/resource/Levanzo	0.9999999037611726
+Giardini Pubblici	http://dbpedia.org/resource/Giardini_Pubblici_Indro_Montanelli	1.0
+Brindisi	http://dbpedia.org/resource/Brindisi	0.9854604869147344
+Valle d'Aoste	http://dbpedia.org/resource/Valle_del_Cauca_Department	0.9159465229557673
+Tiber	http://dbpedia.org/resource/Tiber	0.9999997586504648
+Woodford	http://dbpedia.org/resource/Woodford_tube_station	0.8992591370762819
+France	http://dbpedia.org/resource/France	0.9978151001839691
+Sicily	http://dbpedia.org/resource/Sicily	0.9952095240603257
+Murano	http://dbpedia.org/resource/Murano	0.9952060825721087
+Po	http://dbpedia.org/resource/Po_(river)	0.5940575545883043
+Chiusi	http://dbpedia.org/resource/Chiusi	0.9999997496242721
+Varese	http://dbpedia.org/resource/Varese	0.8561536095065762
+Marche	http://dbpedia.org/resource/Marche	0.9994568169693032
+Pozzuoli	http://dbpedia.org/resource/Pozzuoli	0.9943324055508859
+Holland	http://dbpedia.org/resource/Holland	0.9285121203244706
+Vicenza	http://dbpedia.org/resource/Vicenza	0.7080387676596724
+Caserta	http://dbpedia.org/resource/Caserta	0.986339576677006
+Vesuvian Bay	http://dbpedia.org/resource/Mount_Vesuvius	0.8427524138722654
+Resina	http://dbpedia.org/resource/Ercolano	0.9999996788154403
+Custonaci	http://dbpedia.org/resource/Custonaci	0.9999999443407093
+Messina	http://dbpedia.org/resource/Messina	0.9768676552924258
+Servian wall	http://dbpedia.org/resource/Servian_Wall	1.0
+Santa Maria degli Angeli	http://dbpedia.org/resource/Santa_Maria_degli_Angeli_e_dei_Martiri	0.9923683967435937
+Fiesole	http://dbpedia.org/resource/Fiesole	0.9985048054625962
+San Remo	http://dbpedia.org/resource/Sanremo	0.9982968418555687
+Ithaca	http://dbpedia.org/resource/Ithaca	0.9760898442183513
+island of San Michele	http://dbpedia.org/resource/Isola_di_San_Michele	0.9971751111227917
+Mevania	http://dbpedia.org/resource/Bevagna	0.9999998896850987
+Castello	http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Castello	0.7339244443093837
+Trapani	http://dbpedia.org/resource/Trapani	0.8862917173401403
+Rome - Pisa	http://dbpedia.org/resource/Rome	0.9959979761383672
+Biarritz	http://dbpedia.org/resource/Biarritz	0.7617939660911769
+Tarquinia	http://dbpedia.org/resource/Tarquinia	0.9999998604312479
+Tuscany	http://dbpedia.org/resource/Tuscany	0.9888793899876532
+Pavia	http://dbpedia.org/resource/Pavia	0.9875790205417027
+Campo	http://dbpedia.org/resource/Campo_de_Gibraltar	0.986728067043439
+Africa	http://dbpedia.org/resource/Africa	0.9999095345854906
+Temple of Neptune	http://dbpedia.org/resource/Neptune	0.9975008091113868
+Maritime Alps	http://dbpedia.org/resource/Maritime_Alps	0.9999999999962732
+Molveno	http://dbpedia.org/resource/Molveno	0.9999998422044722
+Cairo	http://dbpedia.org/resource/Cairo	0.9998318302762856
+Chamonix	http://dbpedia.org/resource/Chamonix	0.9987917821456965
+dolomites	http://dbpedia.org/resource/Dolomites	0.9999993065972023
+Somerset	http://dbpedia.org/resource/Somerset	0.8845408414720046
+Venice	http://dbpedia.org/resource/Venice	0.9865988624093786
+Via delle Sette Sale	http://dbpedia.org/resource/Delle	0.9999139127050986
+NAPLES	http://dbpedia.org/resource/Naples	0.9937024338771233
+Ventimiglia	http://dbpedia.org/resource/Ventimiglia	0.9760084471087723
+Morocco	http://dbpedia.org/resource/Morocco	0.9978136458678989
+Umbria	http://dbpedia.org/resource/Umbria	0.9995878866860183
+Japan	http://dbpedia.org/resource/Japan	0.9988981056382511
+Ravenna	http://dbpedia.org/resource/Ravenna	0.98877959535559
+Liverpool	http://dbpedia.org/resource/Liverpool	0.7380332539512151
+Padua	http://dbpedia.org/resource/Padua	0.9933310760536604
+VESUVIUS	http://dbpedia.org/resource/Mount_Vesuvius	0.9999997886874442
+Montalto	http://dbpedia.org/resource/Montalto_di_Castro	0.426459635043141
+Chartres	http://dbpedia.org/resource/Chartres	0.9646718666082001
+MOUNT ÆTNA CATANIA	http://dbpedia.org/resource/Catania	0.9096849272377057
+Tarquinii	http://dbpedia.org/resource/Tarquinia	0.999999599731437
+Alexandrine Aqueduct	http://dbpedia.org/resource/Aqueduct_Racetrack	0.7131232065306337
+Santa Maria di Gradi	http://dbpedia.org/resource/Santa_Maria_Island	0.8181784760758994
+Bay of Naples	http://dbpedia.org/resource/Naples	0.994997054991005
+Adige	http://dbpedia.org/resource/Adige	0.999999552683129
+Neapolitan Riviera	http://dbpedia.org/resource/Naples	0.8977563244328233
+London	http://dbpedia.org/resource/London	0.999457497603158
+Presanella	http://dbpedia.org/resource/Presanella	0.9999999237859953
+New York	http://dbpedia.org/resource/New_York	0.6949936759617363
+Pantellaria	http://dbpedia.org/resource/Pantelleria	0.9999998164011243
+Castelvetrano	http://dbpedia.org/resource/Castelvetrano	0.9977470117920535
+Tower of the Lowly	http://dbpedia.org/resource/Tower_of_London	0.5363079916019505
+Western Gate of Italy	http://dbpedia.org/resource/Italy	0.9945594070724589
+Parma	http://dbpedia.org/resource/Parma	0.6718211822955422
+Cosenza	http://dbpedia.org/resource/Cosenza	0.8853413152063527
+Randazzo	http://dbpedia.org/resource/Randazzo	0.9985951787825249
+Mediterranean	http://dbpedia.org/resource/Mediterranean_Sea	0.992661018709364
+MONTE SAN GIULIANO	http://dbpedia.org/resource/Erice	1.0
+La Madonna di Campiglio	http://dbpedia.org/resource/Madonna_di_Campiglio	1.0
+Corsica	http://dbpedia.org/resource/Corsica	0.9998540198351784
+Lucca	http://dbpedia.org/resource/Lucca	0.9954543068843315
+Alassio	http://dbpedia.org/resource/Alassio	0.9999999189473241
+Granada	http://dbpedia.org/resource/Granada	0.9139023489254493
+ITALY	http://dbpedia.org/resource/Italy	0.9989893436870381
+Tunisia	http://dbpedia.org/resource/Tunisia	0.9968054079218914
+Brescia	http://dbpedia.org/resource/Brescia	0.8754302661264086
+Servian Agger	http://dbpedia.org/resource/Servian,_Hérault	0.90041920590446
+campagna	http://dbpedia.org/resource/Campagna	0.9583778144995314
+FLORENCE	http://dbpedia.org/resource/Florence	0.9993697125161629
+Ireland	http://dbpedia.org/resource/Ireland	0.761533757607475
+Torre del Greco	http://dbpedia.org/resource/Torre_del_Greco	1.0
+Lyons	http://dbpedia.org/resource/Lyon	0.9932253717221001
+Locri	http://dbpedia.org/resource/Locri	0.9999996989054258
+Surrentum	http://dbpedia.org/resource/Sorrento	0.9999997637491654
+Bologna	http://dbpedia.org/resource/Bologna	0.9698938017494135
+Piedmont	http://dbpedia.org/resource/Piedmont	0.9991244683316355
+Capaccio Vecchio	http://dbpedia.org/resource/Capaccio	0.923284746415533
+Dublin	http://dbpedia.org/resource/Dublin	0.9738355961984796
+Val di Genova	http://dbpedia.org/resource/Genoa	0.9794701206201577

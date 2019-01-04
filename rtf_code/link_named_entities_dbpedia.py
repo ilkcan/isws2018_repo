@@ -8,8 +8,10 @@ def main(input_folder, output_folder):
 		print("Processing " + file_name + "...")
 		inp_file = open(input_folder + file_name, 'r')
 		location_names = inp_file.readlines()
+		location_names_unique = set([x.strip() for x in location_names])
 		out_file = open(output_folder + file_name, 'w')
-		for location_name in location_names:
+		print(len(location_names_unique))
+		for location_name in location_names_unique:
 			try:
 				only_place_filter = {
 					'policy': "whitelist",

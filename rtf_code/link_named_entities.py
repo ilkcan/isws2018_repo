@@ -8,14 +8,16 @@ def main(input_folder, output_folder):
 		print("Processing " + file_name + "...")
 		inp_file = open(input_folder + file_name, 'r')
 		location_names = inp_file.readlines()
+		location_names_unique = set([x.strip() for x in location_names])
 		out_file = open(output_folder + file_name, 'w')
-		for location_name in location_names:
+		print(len(location_names_unique))
+		for location_name in location_names_unique:
 			try:
 				geonames_entities = geocoder.geonames(location_name, name_equals=location_name, continentCode='EU', key='42s_isws2', maxRows=1)
 				if (len(geonames_entities) > 0):
 					geonames_entity = geonames_entities[0]
 					curr_row = []
-					curr_row.append(location_name.strip())
+					curr_row.append(location_name)
 					curr_row.append(str(geonames_entity.geonames_id))
 					if geonames_entity.country:
 						curr_row.append(geonames_entity.country)
